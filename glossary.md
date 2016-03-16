@@ -18,7 +18,7 @@ The documents that defines the fundamental rules, processes, and other construct
 
 A Role within a Circle used to represent the interests and Tensions of an external Circle or organization. When a Circle is created within another Circle, a Rep Link (as opposed to a Cross Link) will be used to represent the interests of the sub-Circle at the Super-Circle.
 
-**Domain**
+**管辖领域Domain**
 
 Similar to a property right, a Domain centralizes control of a resource to a specific Role. For example, a “Social Media” Role might own the Domain of “corporate Twitter account.” A Role may impact its own Domain to achieve its Purpose, but may not impact another’s Domain unless given permission.
 
@@ -72,7 +72,7 @@ A Project is a specific outcome that requires multiple and/or sequential actions
 
 A recommended change to the Circle’s Governance presented by a Circle member during a Governance Meeting. A Proposal is based on the proposer’s felt Tension and may involve as many parts as necessary to resolve that Tension.
 
-**Purpose**
+**目标Purpose**
 
 Clarifies the identity and intention of a Role or Circle. The Purpose orients the action of a Role even absent any other explicit Accountabilities, Policies, Strategies, Priorities, or resources.
 
