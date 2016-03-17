@@ -98,4 +98,6 @@ A recurring meeting for Circle members to surface operational data, updates, and
 
 **张力 Tension**
 
+事物应有状态与所处状态之间的差距。
+
 A person’s felt sense that there is a gap between the current reality and a potential future. The Circle processes member’s Tensions during its Governance and Tactical meetings. This approach ensures that Governance and operational changes are driven by real experience rather than theory.
