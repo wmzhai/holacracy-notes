@@ -1,7 +1,7 @@
 # 角色
 
 
-### 链长 Lead Link
+### 引导连接 Lead Link
 
 **角色目标:**
 _The Lead Link holds the Purpose of the overall Circle._
