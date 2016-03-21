@@ -18,8 +18,6 @@
 
 一个角色或者圈子的意图。
 
-The Purpose orients the action of a Role even absent any other explicit Accountabilities, Policies, Strategies, Priorities, or resources.
-
 **管辖领域 Domain**
 
 管辖领域将某些资源的控制权集中到一个特定的角色上。比如，”社交媒体“ 角色可能拥有对组织微博账号的控制权。 一个角色可以影响自己的管辖领域以完成目标，但是在没有给定权限时不能影响其他成员的管辖领域。
@@ -31,9 +29,7 @@ The Purpose orients the action of a Role even absent any other explicit Accounta
 
 **圈子 Circle**
 
-由具备同一目标的一组角色组成，每个圈子都具备一些 **核心角色** (比如协调员，秘书，引导连接和代表连接)和从事实际工作的角色。
-
-A group of Roles that all contribute to the same Purpose. Every Circle has “core roles” (e.g. Facilitator, Secretary, Lead Link, and Rep Link) as well as other Roles doing the work. A Circle is treated like a Role with the additional authority to break itself down into sub-Roles.
+由具备同一目标的一组角色组成，每个圈子都具备一些 **核心角色** (比如协调员，秘书，引导连接和代表连接)和其他从事各种实际工作的角色。一个圈子可以视为一个有权限将自己分解为子角色的角色。
 
 **根本圈子 Anchor Circle**
 
@@ -42,55 +38,47 @@ A group of Roles that all contribute to the same Purpose. Every Circle has “co
 
 **引导连接 Lead Link**
 
-A Role that holds the Purpose of the overall Circle. The Lead Link is responsible for assigning people to Roles that have been created through Governance Meetings. The Lead Link also allocates resources and defines Priorities, Strategies, and Metrics within the Circle.
+一个持有整个圈子目的的角色。引导连接对自己圈的工作没有决定权，他唯一的权力是往自己圈里的角色中放人。他可以在全组织范围内邀请任何人来填充角色，并且有权在认为一个人没有做好自己角色的时候将其从角色上踢出。此外，他也可以在圈子里面分配资源，定义优先级，策略和Metrics。
 
-引导连接对自己圈的工作没有决定权，他唯一的权力是往自己圈里的角色中放人。他可以在全公司范围内邀请任何人来填充角色，并且有权在认为一个人没有做好自己角色的时候将其从角色上踢出。
 
 **代表连接 Rep Link**
 
-An elected Role used to represent the interests of a sub-Circle to its super-Circle. Also note that the Lead Link of a Circle may not serve as the Rep Link of that Circle. Rep Links allow Tensions from the sub-Circle to be processed by the super-Circle when the issue seems to extend beyond the sub-Circle’s current authority.
+一个被选举的角色，代表子圈子在父圈子中利益的。引导连接不见得从事代表连接的工作。当一些事情超出子圈子的权限时，代表连接能够让子圈子的张力在父圈子中得以处理。
 
 **协调员 Facilitator**
 
-协调员就像是一个运动的裁判员，一个中立、公正的角色，是为了保护游戏进程，维护游戏规则而设计的。
-
-An elected Role with the purpose of facilitating the Circle’s Governance and Tactical meetings in accordance with the rules of the Constitution. The Facilitator’s Purpose and Accountabilities are listed in the Constitution’s Appendix. Also, the Lead Link of a Circle is not eligible to be elected Facilitator for that Circle.
-
+一个被选举的角色，确保圈子的管理会议和战术会议按照章程的规则进行。领导连接的人选不适合重复担任同一个圈子的协调员的角色。协调员就像是一个运动的裁判员，一个中立、公正的角色，是为了保护游戏进程，维护游戏规则而设计的。
 
 **秘书 Secretary**
 
-An elected Role with the Purpose of aligning Circle Governance and operations with the Constitution through maintaining Circle records, scheduling meetings, and interpreting Governance upon request. The Secretary works actively and collaboratively with the Facilitator during Governance and Tactical Meetings.
+一个被选举的橘色，通过维护圈子记录，安排会议和解释管理信息来确保圈子的管理和经营和章程一致。在管理会议和战术会议中，秘书和协调员积极配合。
 
 
-**Cross Link**
+**交叉连接 Cross Link**
 
-A Role within a Circle used to represent the interests and Tensions of an external Circle or organization. When a Circle is created within another Circle, a Rep Link (as opposed to a Cross Link) will be used to represent the interests of the sub-Circle at the Super-Circle.
-
+一个圈子内部代表外部圈子或组织利益和张力的角色。 当一个圈子在另外一个圈子内创建时，代表连接用来在父圈子中表示子圈子的利益。
 
 **选举 Election**
 
-An integrative process for selecting people to fill the Facilitator Role, Secretary Role, and Rep Link Role. Elections follow the Integrative Election Process that includes nominations and the processing of Proposals and Objections.
+选择成员来填充协调员，秘书和代表连接角色的综合过程。
 
+**个人行动 Individual Action**
 
-**Individual Action**
-
-An action taken outside the current Purpose or Accountabilities of a Role. The decision to take Individual Action should be made consciously having considered the current Governance, and involves certain duties as a follow up to avoid repeating the same Individual Action.
+角色当前目标和岗位职责之外采取的行动。
 
 **管理 Governance**
 
-An explicit, written set of rules and expectations including the Circles, Roles, Purposes, Accountabilities, Domains, and Policies of the organization. The organization’s Governance changes in response to the demands of the environment through the processing of Circle member’s Tensions during Governance Meetings.
+一个明确的书面规则和期望，包括组织的圈子、角色、目标、岗位职责、管辖领域和政策。组织的管理变化是通过处理管理会议中圈子成员的张力而产生的。
 
 **管理会议 Governance Meeting**
 
-A recurring meeting to process Tensions related to the Circle’s Governance by making Proposals and raising Objections. Changes can be made to the Circle’s Governance by creating new or making changes to existing Roles, Policies, and Elections. Governance Meetings follow the process outlined in Constitution section 3.3.
-
+一个经常性的会议，通过制定建议和提出异议来处理圈子管理相关的张力。 管理会议针对圈子实现的主要变化包括创建和改变角色和政策，以及选举。
 
 **Metrics**
 
-Data chosen by the Circle’s Lead Link to provide visibility into the work of the Circle. For example, a Metric for a “Social Media” Role might be “Number of Twitter followers.” It is up to the Lead Link of the Circle to define and assign relevant metrics to the Roles within that Circle.
+一个圈子的引导连接选择的数据，用来可视化圈子的工作。 比如一个针对”社交媒体”的Metric可以是微博粉丝的数量。定义并分配metrics给角色是引导连接的工作。
 
-
-**Objection**
+** Objection**
 
 An Objection is a reason why a Governance Proposal will cause harm or move the Circle backward. A Circle member raises an Objection during a Governance Meeting when that member experiences a Tension in response to the Proposal.
 
@@ -98,39 +86,27 @@ An Objection is a reason why a Governance Proposal will cause harm or move the C
 
 影响圈子或者角色管辖领域的授权或者限制，当圈子拥有管辖领域(Domain)时，圈子可以在管理会议上制定相应政策，或者允许圈子以外的角色对该管辖领域施以影响，或阻止自己圈子内的角色以某种方式对该财产施以影响。
 
-A Policy allows or limits others from impacting a Domain. For example, if a “Social Media” Role owns the Domain of “corporate Twitter account” then a Policy might be enacted to allow an “Events Promotion” Role to make posts to Twitter (e.g. “Events Promotion has permission to post events-related content to the corporate Twitter account”).
-
-
 **战术会议 Tactical Meeting**
 
-战术会议是一个快节奏的讨论会，目的是使团队成员同步了解本周的各项工作，同时诊断限制工作向前发展的各种问题。战术会议让大家讨论经营问题，了解其他角色正在进行的项目的最新情况，告诉大家你的项目最新情况，以及必要时需要哪些帮助。b
-
-A recurring meeting for Circle members to surface operational data, updates, and triage Tensions into Projects and Next Actions. Agenda items are created during the meeting while the Facilitator works to get through all items in the allotted time. Tactical Meetings follow the process outlined in Constitution section 4.2.
-
+战术会议是一个快节奏的讨论会，目的是使团队成员同步了解本周的各项工作，同时诊断限制工作向前发展的各种问题。战术会议让大家讨论经营问题，了解其他角色正在进行的项目的最新情况，告诉大家你的项目最新情况，以及必要时需要哪些帮助。战术会议可以将张力转化为项目和下一步行动。议事项目是在会议进行时提出的，协调员为工作分配相应的时间。
 
 **项目 Project**
 
-通过一系列顺序的行动而想要达成的特定结果。
-
-A Project is a specific outcome that requires multiple and/or sequential actions to complete. Projects are phrased in the past tense as in, “Budget report completed.” All Circle members are required to capture and track Projects for their Roles in a tangible form and to regularly review and update them.
-
+通过一系列顺序的行动而想要达成的特定结果。项目可以用过去时描述，比如“预算工作已经完成了”。所有的圈子成员都需要记录和跟踪自己角色的项目，并定期的回顾与更新。
 
 **下一步行动 Next Action**
 
-在没有其他更紧急事情的情况下，可以立刻执行的、具体的、实际的行动。
-
-A concrete action that could be taken immediately towards the completion of a Project. All Circle members are required to capture and track Next Actions for their Roles in a tangible form and to regularly review and update them.
+在没有其他更紧急事情的情况下，可以立刻执行的、具体的、实际的行动。所有的圈子成员都需要记录和跟踪自己角色的下一步行动，并定期的回顾与更新。
 
 项目和下一步行动的区别：
 
 * **项目** 是“任何想要达成的结果，他需要很多步行动才能实现”
 * **下一步行动** 是”为了将现状推向完成状态，接下来要从事的实际的具体的行动”
 
-**Proposal**
+**建议 Proposal**
 
-A recommended change to the Circle’s Governance presented by a Circle member during a Governance Meeting. A Proposal is based on the proposer’s felt Tension and may involve as many parts as necessary to resolve that Tension.
-
+圈子成员在管理会议中提出的针对圈子管理的修改建议。建议往往是基于建议人所感受到的张力，并跟解决这个张力的各方面相关。
 
 **战略 Strategy**
 
-An easy-to-remember rule used to guide Circle member’s decisions. A Strategy defines one potentially valuable activity, emphasis, or goal over another. The Lead Link is accountable for defining the Strategies of the Circle and may use whatever process he/she feels is appropriate for gathering input from other Circle members.
+用以指导圈子成员决策的易记的准则。战略定义潜在有价值的行动，重点和目标。引导连接有责任定义圈子的战略。
