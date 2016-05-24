@@ -1,59 +1,64 @@
 # 角色
 
 
-### 引导连接 Lead Link
+## 引导连接 Lead Link
 
-**角色目标:**
-_The Lead Link holds the Purpose of the overall Circle._
+**目标**
 
-**管辖领域:**
+整个圈子的目标就是引导连接的目标
 
-- 圈子内部的角色分配
+**职权**
 
-**岗位职责:**
+* 圈内角色分配
 
-- Structuring the Governance of the Circle to enact its Purpose and Accountabilities
-- Assigning Partners to the Circle’s Roles; monitoring the fit; offering feedback to enhance fit; and re-assigning Roles to other Partners when useful for enhancing fit
-- Allocating the Circle’s resources across its various Projects and/or Roles
-- Establishing priorities and Strategies for the Circle
-- Defining metrics for the circle
-- Removing constraints within the Circle to the Super-Circle enacting its Purpose and Accountabilities
+**职责**
 
-_The Lead Link also holds all un-delegated Circle-level Domains and Accountabilities._
-
+* 构建圈子管理，来完成目标并履行职责
+* 为角色分配人选；监控是否合适；提供反馈增强契合；发现更合适人选重新分配角色
+* 分配圈子资源给圈内项目和角色
+* 制定圈子优先级和战略
+* 制定圈子指标
+* 去除圈子的限制以完成目标和职
 
 
-###Rep Link
+## 代表连接 Rep Link
 
-**角色目标:** _Within the Super-Circle, the Rep Link holds the Purpose of the Sub-Circle; within the Sub-Circle, the Rep Link’s Purpose is:_ Tensions relevant to process in the Super-Circle channeled out and resolved.
+**目标**
 
-**岗位职责:**
+在主圈子内，代表连接代表次圈子的目标；在次圈子内，代表连接的目标是沟通及处理与主圈子程序相关的张力。
 
-- Removing constraints within the broader Organization that limit the Sub-Circle
-- Seeking to understand Tensions conveyed by Sub-Circle Circle Members, and discerning those appropriate to process in the Super-Circle
-- Providing visibility to the Super-Circle into the health of the Sub-Circle, including reporting on any metrics or checklist items assigned to the whole Sub-Circle
+**职责**
 
-
-###协调员
-
-**角色目标:** Circle governance and operational practices aligned with the Constitution.
-
-**Accountabilities:**
-
-- Facilitating the Circle’s constitutionally-required meetings
-- Auditing the meetings and records of Sub-Circles as needed, and declaring a Process Breakdown upon discovering a pattern of behavior that conflicts with the rules of the Constitution
+* 在组织内为次圈子扫除制约其发展的因素
+* 尝试理解次圈子成员发现的张力，并辨别哪些需要在主圈子内处理
+* 给主圈子提供次圈子的情况，包括所有要求次圈子提交的指标或核查项目清单
 
 
-###Secretary
+## 协调员 Facilitator
 
-**角色目标:** Steward and stabilize the Circle’s formal records and record-keeping process.
+**目标**
 
-**管辖领域:**
+按照章程进行圈子的管理和运营
 
-- All constitutionally-required records of the Circle
+**职责**
 
-**岗位职责:**
+* 按照章程要求，协调召开圈子内的各种会议
+* 必要时审核次圈子的会议和记录，并在发现工作程序出现问题时，启动章程规定的恢复程序
 
-- Scheduling the Circle’s required meetings, and notifying all Core Circle Members of scheduled times and locations
-- Capturing and publishing the outputs of the Circle’s required meetings, and maintaining a compiled view of the Circle’s current Governance, checklist items, and metrics
-- Interpreting Governance and the Constitution upon request
+
+
+## 秘书 Secretary
+
+**目标**
+
+管理圈子的各种正式记录，并确定记录保管流程
+
+**职权**
+
+按章程要求负责所有圈子记录
+
+**职责**
+
+* 安排圈子的必要会议，并通知所有核心圈子成员会议的时间、地点
+* 掌握圈子必要会议的结果，持续整理圈子当前管理情况和观察结果、清单项目和指标
+* 按照要求对管理和章程内用做出解释

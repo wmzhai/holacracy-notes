@@ -4,618 +4,774 @@
 
 本**章程**定义管理和经营一个组织的章程和过程。**批准者** 接受这些章程作为**组织**的正式结构，批准者和任何参与者都遵从和依赖此章程赋予的权利。
 
-## 条款1: 赋于角色能量
+## 条款1 激励角色
 
-### 1.1 角色的定义
+### 1.1 角色定义
 
-参与者通过扮演一个或者多个明确定义的角色的形式为组织服务。
+组织合伙人一般通过扮演一个或多个明确定义的角色为组织工作。
+**角色** 是组织的构成元素，它有一个描述性名称和如下一项或多项内容：
 
-**角色** 是一个组织的构成元素，并具备如下特性：
+- **(a) 目标(Purpose)** 角色代表组织追求或表达的最大限度、潜在、尚未实现的目标。
+- **(b) 职权(Domain)**  角色代表组织排他性控制的 **领域**。
+- **(c) 职责(Accountabilities)** 角色代表组织正在执行的 **活动**。
 
-- **(a)** 一个**角色目标**，是角色在组织内部需要追求或表达的最大限度的, 潜在的或无法实现的目标。
-- **(b)** 一个或多个**管辖领域**，是角色在组织内部可以完全控制和管理的事情。
-- **(c)** 一个或多个**岗位职责**，是角色在组织内部需要进行的活动。
+### 1.2 角色职责
 
-
-### 1.2 角色填充的职责
-
-作为组织的参与者，你针对每个被人民的角色具备如下的职责。
-
+作为组织合伙人，对你所填充的每个角色具有如下责任：
 
 #### 1.2.1 处理张力
 
-你有责任监督自身角色的目标和岗位职责和实际期望值之间的差距，从而明确当前状态和你感觉到的目标之间的差距。你具备使用自己的权限和其他机制来解决这些张力的责任。
+你有责任监测你的角色的目标和职责，和理想的状况做比较，并确认现实和期望之间的差距，这个差距就是 **张力**。 你有责任利用本章程赋予你的权力和其他机制来解决这些张力。
 
-#### 1.2.2 处理目标和责任
+#### 1.2.2 处理目标和职责
 
-你具备通过如下手段定期考虑如何完成你的角色目标和岗位职责的责任:
+你有责任定期地定义如下内容来完成你的目标和每个职责:
 
-- **(a)** **下一步行动** 没有更加优先工作的情况下，你可以立刻实施并有帮助的行动
-- **(b)** **项目** 没有更加优先工作的情况下，需要通过多个顺序行动来完成的特定结果
+- **(a) 下一步行动(Next-Actions)** 没有更优先工作的情况下，你可以立刻执行并有所帮助的行动
+- **(b) 项目(Projects)** 没有更优先工作的情况下，需要通过多个顺序行动来完成的有意义的结果
 
 #### 1.2.3 处理项目
 
-你有责任定期考虑如何完成你积极工作能够完成的项目，包括改进项目工作的下一步行动。
+你有责任定期地考虑如何完成你角色的每一个项目，通过定义下一步行动来改进项目的方式。
 
 #### 1.2.4 跟踪项目，下一步行动和张力
 
-你有责任获取，跟踪并记录你的角色的所有项目和下一步行动，从而能够定期审核与更新相应数据，以表示成一个可信的角色的活动和潜在工作的列表。你也有责任跟踪任何你的觉得的张力，直到解决张力或者把它转化为项目和下一步行动。
+你有责任获取、跟踪自己角色的所有项目和下一步行动，并加以记录，以便定期回顾；
+你也有责任跟踪自己角色的任何张力，直到你解决他们，或将其转化为相应的项目或下一步行动。
 
 #### 1.2.5 引导注意力和资源
 
-在你扮演自己角色的时候，你有责任考虑当前潜在的有效的下一步行动是什么，并执行任何可能最大化组织利益的行动。
+任何当你有时间扮演自己角色的时候，你有责任考虑当前潜在有效的下一步行动是哪些，并执行最大化组织利益的行动。
 
-### 1.3 执行权力
+### 1.3 执行的权力
 
-当一个参与者被任命到一个角色上时，你有权力执行任何你相信扮演你角色有用的下一步工作。
+作为填充某角色的合伙人，你有权执行任何有助于完成自己角色目标和职责的下一步行动。
 
-但是，你不可以在其他角色的管辖领域里行动，除非你具备他们的允许。
+但是，你不能对其他角色的职权施加控制或产生实质影响，除非你获得他的许可。
 
+### 1.4 职权的权力
 
-### 1.4 Authority over Domains
+作为填充某角色的合伙人，你有权控制和调节自己角色的每个职权。
+当其他角色影响你的职权时，你可以逐个考虑许可或禁止。
 
-As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
+你也可以定义自己职权的 **政策**，或允许其他人控制或影响一个特定的职权，或者控制到什么程度。当政策生效之前，你需要发布并通知所有合伙人。
 
-You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Partners who may be impacted.
-
-The authorities granted to you in this section may be further limited by constraints defined under Section 2.1.3.
-
-
-## 条款2: 圈子结构
+## 条款2 圈子结构
 
 ### 2.1 圈子基础
 
-**圈子** 是一个特殊的角色，他可以进一步将自身分解子角色来完成他的目标，控制他的管辖领域并完成岗位职责。圈子可以它的一系列角色，任何一个人可以填充这些角色的人就是圈子成员。
+**圈子** 是一个特殊的角色，它可以将自身分解为子角色来完成目标，控制职权并完成职责。圈子定义的角色是它的 **被定义角色**，而任何填充其中某个被定义角色的人则是圈子的 **圈子成员**。
 
 #### 2.1.1 定义角色和政策
 
+每个圈子都使用条款3中描述的 **管理过程** 来定义和修改圈内的角色或者控制圈子职权的政策。
+没有人能够在管理流程外定义和修改圈子的角色或政策，除非被本章程其他规则所允许。
 
-Each Circle will use the **_“Governance Process”_** described in Article 3 of this Constitution to define or amend Roles within the Circle or Policies governing the Circle’s Domain. No one may define or amend a Circle’s Roles or Policies outside of its Governance Process, unless explicitly allowed by another rule of this Constitution.
+进一步地，每个圈子可以控制它自己的功能和活动，作为圈子的职权，以便定义限制圈子角色的政策。
 
-Further, each Circle may control its own functions and activities, as if a Domain of the Circle, for the purpose of defining Policies that limit the Circle’s Roles.
 
-#### 2.1.2 Roles May Impact Circle Domains
+#### 2.1.2 角色可能影响圈子职权
 
-When filling a Role in a Circle, you may use and impact any Domain controlled by the Circle itself, or that the Circle is authorized to impact. However, you must abide by any constraints acting upon the Circle itself or defined by Policy of the Circle, and you may not fully control or regulate the Domain under the terms of Section 1.4.
+当填充圈子的某个角色时，你可能使用或影响任何圈子控制或被授权的职权。
+但是，你必须遵守任何作用于圈子上或者被政策定义的约束。
 
-Further, you may not transfer or dispose of the Domain itself or any significant assets within the Domain, nor may you significantly limit any rights of the Circle to the Domain. However, these restrictions do not apply if a Role or process holding the needed authority grants you permission to do so.
+进一步地，你不能转让或处置职权本身或者职权内的重要资产，你也不能显著地限制任何职权。
+但是，如果具备相应权力的角色或者过程赋权给你是，你可以不用考虑这些限制。
 
-#### 2.1.3 Delegation of Control
 
-When a Circle defines a Domain upon one of its Roles, the Circle’s authority to impact, control, and regulate that Domain is instead delegated to that Role and removed from the Circle.
+#### 2.1.3 控制委托
 
-However, the Circle retains the right to amend or remove that Domain delegation, or to define or modify Policies that further grant or constrain the Role’s authority within the Domain.
+当圈子将职权定义到它的某个角色上时，圈子影响、控制和调节这个职权的权力就被委托给这个角色，并从圈子本身移除。
 
-By default, any Domains delegated in this way exclude the authority to dispose of the Domain itself or any significant assets within the Domain, or to transfer those assets outside of the Circle, or to significantly limit any rights of the Circle to the Domain. A Circle may delegate these retained authorities as well, by explicitly granting the desired permissions in a Policy of the Circle.
+但是，圈子保留修改和删除这个职权委托的权力，也可以定义或修改政策来进一步授予或限制角色的职权。
 
-In any case, all Domain delegations are always limited to whatever authority the Circle itself had in the first place.
+默认情况下，以这种方式委派的任何职权都不包括授权处理职权本身或职权内的任何重大资产，或将这些资产转移到圈外，或显著限制圈子的职权。
+圈子也可以通过显式地在圈子策略中授予权限委托这些保留的权限。
 
-### 2.2 Circle Lead Link
+在任何情况下，所有职权委托总是被限制在任何圈子自己拥有的职权上。
 
-Each Circle has a **_“Lead Link Role”_** with the definition given in Appendix A and the further responsibilities and authorities defined in this Section.
+### 2.2 引导连接
 
-The person filling the Lead Link Role, while acting in that capacity, is referred to as the Circle’s **_“Lead Link”_**.
+每个圈子都有一个 **引导连接角色**，填充这个角色的人被称作圈子的 **引导连接**。
 
-#### 2.2.1 Holds Undifferentiated Functions
+#### 2.2.1 持有一致的功能
 
-A Circle’s Lead Link inherits the Purpose and any Accountabilities on the Circle itself, and controls any Domains defined on the Circle, just as if the Circle were only a Role and the Lead Link filled that Role. However, this only applies to the extent that those Accountabilities and Domains have not been placed upon a Role within the Circle, or otherwise delegated.
+引导连接继承圈子的目标和职责，并控制圈子内所有的职权。
+好比圈子本身就是一个角色，而引导连接填充这个角色一样。
+然而，这只适用于职责和职权还没有被分配到圈内某个角色的情况下。
 
-Further, the Lead Link may not define Policies that limit the Circle’s Roles, except via the Governance Process of the Circle.
+进一步地，引导连接只能通过圈子的管理过程定义限制圈子角色的政策。
 
-#### 2.2.2 Defines Priorities & Strategies
+#### 2.2.2 定义优先级和战略
 
-A Circle’s Lead Link may define relative priorities for the Circle.
+引导连接可以定义圈子的相对优先级。
 
-In addition, the Lead Link may define a more general **_“Strategy”_** for the Circle, or multiple Strategies, which are heuristics that guide the Circle’s Roles in self-identifying priorities on an ongoing basis.
+此外，引导连接可以为圈子定义更一般的战略，用以启发式地指导圈子角色做优先级的判断。
 
-#### 2.2.3 Amending the Lead Link Role
+#### 2.2.3 修改引导连接角色
 
-A Circle may not add Accountabilities or other functions to its own Lead Link Role, or modify the Role’s Purpose, or remove the Role entirely.
+圈子不能给引导连接添加额外的职责和功能，或修改它的目标，或者整体删除它。
 
-However, a Circle may remove any Accountabilities, Domains, authorities, or functions of its Lead Link Role, either by placing them on another Role within the Circle, or by defining an alternate means of enacting them. When this occurs, it automatically removes the relevant element or authority from the Lead Link Role, for as long as the delegation remains in place.
+然而，圈子却可以删除引导连接的任何职责，职权和权限。
+或将这些内容分配到其他角色上，或通过其他方式来完成它。
+当这种情况发生时，它会自动从引导连接中删除相关内容，只要该委托仍在。
 
-### 2.3 核心圈子成员
+### 2.3 核心圈成员
 
-一些圈子成员是可以参与圈子管理过程的，从而是这个圈子的“核心圈子成员”。他们通过如下规则定义：
+允许参加圈子的管理过程的成员是圈子的 **核心圈成员**。
 
-#### 2.3.1 基础成员
+核心圈成员是用如下的规则确定:
 
-Unless a special appointment or exclusion is made under the terms of this section, the Core Circle Members of a Circle are:
+#### 2.3.1 基本成员资格
 
-- **(a)** each Partner filling a Defined Role in the Circle;
-- **(b)** the Lead Link of the Circle, as defined in Section 2.2;
-- **(c)** each Rep Link elected to the Circle, as defined in Section 2.6.4;
-- **(d)** and each Cross Link into the Circle, as defined in Section 2.7.
+除非在被下列条款特别任命或排除，核心圈成员是：
 
-#### 2.3.2 Exclusion for Multi-Filled Roles
+- **(a)** 每个填充圈子被定义角色的合伙人;
+- **(b)** 圈子的引导连接;
+- **(c)** 每个被选举的代表连接;
+- **(d)** 每个交叉连接;
 
-If multiple Partners are assigned to the same Defined Role in a Circle, the Circle may enact a Policy that limits how many of them are Core Circle Members as a result of that Role assignment. However, the Policy must allow at least one of the Partners filling the Role to represent it as a Core Circle Member, and must specify how that representative will be determined.
+#### 2.3.2 多人分配同一角色
 
-The Policy can define a pathway for the excluded Partners to process Tensions related to that Role. If it does not, any Partners representing the Role have the duty to consider and process Tensions conveyed by the excluded Partners, exactly as a Rep Link would if the Role were a Sub-Circle.
+如果多个合伙人被分配到同一个被定义角色上，则圈子可以制定一个政策，限制其中多少是核心圈成员。
+该政策必须允许其中至少一个人作为核心圈成员，并必须指定如何确定这个代表。
 
-#### 2.3.3 Exclusion for Minor Allocations
 
-Sometimes, a Partner allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes this is the case, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.
+这个政策可以定义一个让被排除者处理自己张力的途径。
+如果没有这个途径，任何代表该角色的人都有责任考虑和处理被排除者所传达的张力。
 
-If a Partner is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
+#### 2.3.3 排除次要角色
 
-#### 2.3.4 Special Appointments of Core Members
+有时某合伙人只被分配了一个非常小的，几乎是微不足道的角色。
+如果引导连接确认这点，他可以将这个合伙人从核心圈成员里面去除。
 
-The Lead Link of a Circle may specially appoint additional persons to serve as Core Circle Members of a Circle, beyond those required by this Constitution, and may further remove these special appointments at any time.
+如果一个人被这样排除，引导连接有责任考虑和处理这个人所传达的张力，除非有一个可以让他处理张力的途径。
 
-### 2.4 Role Assignment
+#### 2.3.4 特殊任命
 
-The Lead Link of a Circle may assign people to fill Defined Roles in the Circle, unless that authority has been limited or delegated.
+引导连接可以特别任命一个额外人选作为核心圈成员，他也可以在任何时间取消这些任命。
 
-#### 2.4.1 Unfilled Roles
 
-Whenever a Defined Role in a Circle is unfilled, the Circle’s Lead Link is considered to be filling the Role.
+### 2.4 分配角色
 
-#### 2.4.2 Assigning Roles to Multiple People
+引导连接可以为角色分配人员，除非权限被限制或委托。
 
-A Lead Link may assign multiple people to the same Defined Role, as long as that will not decrease the clarity of who should enact the Accountabilities and authorities of the Role in common situations.
+#### 2.4.1 未填充角色
 
-As one way of maintaining that clarity, a Lead Link may specify a “Focus” along with each assignment, which is an area or context for that person to focus within while executing in the Role.
+当某个被定义角色未被填充时，引导连接默认会去填充这个角色。
 
-When a Role assignment includes a Focus, the Purpose, Accountabilities, and Domains defined for the Role apply just within the specified Focus for that particular person.
+#### 2.4.2 分配角色给多个人
 
-#### 2.4.3 Resignation from Roles
+引导连接可以为多人分配相同的角色，只要不降低角色职责和职权的清晰度即可。
 
-When you fill a Role, you may resign from the Role at any time, unless you’ve agreed otherwise, by giving notice to whoever controls assignments to that Role – typically, the Circle’s Lead Link.
+为了保持这种清晰度，引导连接可以为每个分配指定一个焦点，也就是这个人在扮演角色时需要关注的地方。
 
-### 2.5 Elected Roles
+当角色分配包括一个焦点时，角色的目标，职责和职权只适用于这个人对应的焦点。
 
-Each Circle includes a **_“Facilitator Role”_**, a **_“Secretary Role”_**, and a **_“Rep Link Role”_** with the definitions given in Appendix A. These are the Circle’s **_“Elected Roles”_**, and the person filling each becomes the Circle’s **_“Facilitator”_**, **_“Secretary”_**, or **_“Rep Link”_** when acting in the capacity of the Elected Role.
 
-#### 2.5.1 Elections & Eligibility
+#### 2.4.3 角色辞职
 
-The Facilitator of each Circle will facilitate regular elections to elect a Core Circle Member of the Circle into each of its Elected Roles, using the process and rules defined in Article 3.
+当你填充一个角色的时候，你可以在任何时候从这个角色上辞职。
 
-All Core Circle Members are eligible for election and each may hold multiple Elected Roles, except for the Lead Link of a Circle, who may not be elected as its Facilitator or Rep Link.
+### 2.5 被选举角色
 
-#### 2.5.2 Election Terms & Revisiting
+每个圈子都包括一个 **协调员角色**，一个 **秘书角色** 和一个 **代表连接角色**，这些角色是圈子的 **被选举角色**。
+每个被填充到这些角色上的人就是圈子的 **协调员**，**秘书**和**代表连接**。
 
-During the election process, the Facilitator will specify a term for each election. After a term expires, the Secretary is responsible for promptly triggering a new election for that Elected Role. However, even before a term has expired, any Core Circle Member may trigger a new election using the process defined in Article 3.
+#### 2.5.1 选举和选举权
 
-#### 2.5.3 Amending Elected Roles
+圈子的协调员定期发起选举，从核心圈成员中选举 **被选举角色** ，选举过程和规则参考章程第3条。
 
-A Circle may add Accountabilities or Domains to its Elected Roles, as well as amend or remove those additions.
+所有核心圈成员都有选举权，并且每人可以担任多个被选举角色。但是引导连接不可以被选为协调员或代表连接。
 
-However, a Circle may only add to its own Rep Link Role and not to a Rep Link Role appointed to the Circle by a Sub-Circle.
+#### 2.5.2 选举任期及重选
 
-Further, no Circle may amend or remove any Purpose, Domain, Accountabilities, or authorities granted to an Elected Role by this Constitution, nor remove an Elected Role entirely.
+在选举过程中，协调员为每个选举指定一个任期。
+一届任满后，秘书需要发起新一轮选举。
+不过即使在届满之前，任何核心圈成员也可以发起一个新选举。
 
-#### 2.5.4 Surrogates for Elected Roles
+#### 2.5.3 修改被选举角色
 
-A surrogate may temporarily fill an Elected Role when one is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or feels unable or unwilling to enact the Role’s duties.
+圈子可以添加修改和删除附加职责或职权到被选举角色上。
 
-In any given instance where a surrogate is needed, the surrogate is, in this order of precedence:
+不过圈子仅能够添加到自己的代表连接上，而不是从子圈接入的代表连接。
 
-- **(a)** someone explicitly specified by the person to be replaced; or
-- **(b)** the acting Facilitator of the Circle; or
-- **(c)** the acting Secretary of the Circle; or
-- **(d)** the Lead Link of the Circle; or
-- **(e)** the first Core Circle Member of the Circle to declare he or she is acting as the surrogate.
+圈子不可以修改或删除任何分配到被选举角色上的目标、职权和职责，或者删除某个被选举角色。
 
-### 2.6 Sub-Circles
+#### 2.5.4 被选举角色的代理人
 
-A Circle may expand its Defined Roles into full Circles, via its Governance Process. When it does, the new Circle becomes its **_“Sub-Circle”_**, while it becomes the **_“Super-Circle”_** of that new Sub-Circle.
+代理人可以临时填充未被填充的被选举角色。另外，当某个角色不能出席圈子会议或者不愿意履行角色职责时，也可以使用代理人。
 
-#### 2.6.1 Modifying Sub-Circles
+当需要代理人时，优先顺序如下：
 
-A Circle may modify the Purpose, Domains, or Accountabilities of a Sub-Circle.
+- **(a)** 被替换人明确指定的人
+- **(b)** 当前协调员
+- **(c)** 当前秘书
+- **(d)** 当前引导连接
+- **(e)** 第一个愿意充当代理人的核心圈成员
 
-A Circle may also move its own Defined Roles or Policies into a Sub-Circle, or move any from within the Sub-Circle into itself.
+### 2.6 子圈
 
-Any of these modifications may only be done via the Governance Process of the Circle.
+在管理会议上，圈子可以将被定义角色扩展为子圈，自己作为新圈子的**父圈**。
 
-Beyond these allowed changes, a Circle may not modify any Defined Roles or Policies held within a Sub-Circle.
+#### 2.6.1 修改子圈
 
-#### 2.6.2 Removing Sub-Circles
+圈子可以修改子圈的目标，职权和职责。
 
-Through its Governance Process, a Circle may remove a Sub-Circle. This can be done by removing the Sub-Circle and everything within entirely, or by selectively retaining certain elements of the Sub-Circle within the Circle. A Sub-Circle may also be removed by collapsing it from a Circle back into just a Role.
+圈子可以将它自身的角色或政策移到子圈里，或者从子圈移到自身。
 
-#### 2.6.3 Lead Link to Sub-Circle
+任何这些修改仅能够通过圈子的管理过程来执行。
 
-A Circle’s Lead Link may assign someone to fill the Lead Link Role for each Sub-Circle, using the same rules that apply when the Lead Link assigns into any other Defined Role of the Circle.
+除了上述的变化以外，圈子不可以修改任何子圈的角色和政策。
 
-#### 2.6.4 Rep Link to Super-Circle
+#### 2.6.2 删除子圈
 
-Each Circle normally elects a Rep Link to its Super-Circle. However, this election is not required when a Circle lacks any Core Circle Members other than those serving as Lead Link and Cross Links into the Circle. In this case, even if the election is conducted, the elected Rep Link does not become a Core Circle Member of the Super-Circle.
+圈子可以通过管理过程来删除一个子圈。可以完全删除或选择性地保留子圈的部分内容。子圈重新折叠成一个角色而被删除。
 
-### 2.7 Cross Linking
+#### 2.6.3 子圈引导连接
 
-A Circle may create a **_“Cross Link Policy”_** to invite any entity or group to participate in the Governance Process and operations of the Circle or one of its Sub-Circles. The entity or group that is invited to participate is the **_“Linked Entity”_**, and it may be external to the Organization, or it may be another Role or Circle within the Organization. The Circle that will receive this link is the **_“Target Circle”_**.
+父圈引导连接可以分配某人担任子圈引导连接。
 
-Once a Cross Link Policy is adopted, the Linked Entity may assign a representative to participate in the Target Circle under the terms of this section, unless alternate terms are defined in the Policy.
+#### 2.6.4 父圈代表连接
 
-#### 2.7.1 Cross Link Role
+每个圈子可以选举一个代表连接到他的父圈里。
+但是除了引导连接和交叉连接外没有其他核心圈成员时，这个选举就不是必须的。
+在这种情况下，即使进行了选举，被选出来的代表连接也不会成为父圈的核心圈成员。
 
-If the Linked Entity is a Role, then that Role may participate in the Target Circle as described below. It becomes the **_“Cross Link Role”_**, with the person filling it becoming the **_“Cross Link”_**.
+### 2.7 交叉连接
 
-If the Linked Entity is a Circle or a group, then a new special-purpose Cross Link Role is automatically created instead, and resides within both the Linked Entity and the Target Circle, much like a Rep Link. In this case, the Cross Link Role has the same Purpose and Accountabilities as a Rep Link, but with the “Circle” referenced in the Rep Link Role description instead meaning the Linked Entity, and the “Super-Circle” instead meaning the Target Circle.
+圈子可以创建一个 **交叉连接政策** 来邀请任何实体或小组参与圈子或子圈的管理和经营过程。
+被邀请的实体或小组称作 **连接实体**，他可以是在组织之外的，或是组织内的其他角色或者圈子。
+接受这个连接的圈子被称作 **目标圈**。
 
-If the Linked Entity lacks both a clear Purpose and any clear Accountabilities, then the Cross Link Policy must further clarify what the Cross Link Role will represent within the Target Circle.
+一旦交叉连接政策被采纳，连接实体可以指定一个代表来参与目标圈。
 
-#### 2.7.2 Cross Link Assignment
+#### 2.7.1 交叉连接角色
 
-If the Linked Entity is a Circle or group, it may assign someone to fill the Cross Link Role using whatever process it already has for assigning people to fill Defined Roles or similar work functions.
+如果连接实体是一个角色，那么这个角色可以用以下方式参与目标圈。
+它将成为 **交叉连接角色**，而填充这个角色的人就是 **交叉连接**。
 
-If a Linked Entity represents a group with no single locus of authority to do that assignment, then the Target Circle may instead assign someone to the Cross Link Role, unless otherwise specified in the Cross Link Policy.
+如果连接实体是一个圈子或者小组，那么一个新的特定的交叉连接角色将会自动创建，同时存在于连接实体和目标圈里，类似代表连接。
+在这种情况下，交叉连接角色将和代表连接具备一样的目标和职责。
 
-In all cases, only one person may be assigned to each Cross Link Role, unless allowed by the Cross Link Policy.
+如果连接实体确少清晰的目标和职责，那么交叉连接政策必须进一步明确交叉连接角色在目标圈里代表的内容。
 
-Whenever a Cross Link Role is unfilled, it is considered non-existent and has no default assignment or effect.
+#### 2.7.2 交叉连接分配
 
-#### 2.7.3 Cross Link Authority
+如果连接实体是一个圆子或小组，它可以分配一个人来填充交叉连接角色。
 
-A Cross Link becomes a Core Circle Member of the Target Circle, and may use the authorities of a Core Circle Member to process Tensions that relate to the Target Circle limiting the Linked Entity.
+如果连接实体是一个小组并且无法做这个分配，那么目标圈可以分配这个角色。
 
-However, beyond removing limitations, a Cross Link may not use the Target Circle to build more capacities for the Linked Entity, unless those capacities would also help the Target Circle express its own Purpose or Accountabilities.
+在所有情况下，每个交叉连接角色只能分配一个人。
 
-#### 2.7.4 Additions to a Cross Link Role
+当交叉链接未被填充时，没有默认分配规则。
 
-A Linked Entity may amend its Cross Link Role through its own Governance Process.
+#### 2.7.3 交叉连接的权力
 
-A Target Circle may add Domains or Accountabilities to a Cross Link Role through its own Governance Process, and may later amend or remove any it added.
+交叉连接成为目标圈的核心圈成员，并使用相应权力来处理目标圈限制连接实体而产生的张力。
 
-#### 2.7.5 Boundaries and Delegation
+然而，除了消除限制以外，交叉连接不能使用目标圈来达到更多目的，除非它们也将有助于目标圆子完成自己的目的和职责。
 
-The Linked Entity invited into a Target Circle may be a Role contained by another Circle. In that case, the other Circle may change the Linked Entity to another one of its Roles that it believes is more appropriate, or delegate the selection of the Linked Entity to one of its Sub-Circles.
+#### 2.7.4 交叉连接的附加内容
 
-The Target Circle may also delegate the requirement to receive a link to one of its own Sub-Circles, in which case that Sub-Circle will then become the Target Circle for the link.
+连接实体可以通过自己的管理过程修改它的交叉连接角色。
 
-In either case, any delegation must be done via a Policy of the Circle doing the delegating. Further, any change or delegation must still align with any constraints or guidelines specified in the Cross Link Policy that extended the invitation to link in the first place.
+目标圈可以通过管理过程给交叉连接添加职权或职责，它也可以修改和删除这些内容。
 
-## Article 3: Governance Process
+#### 2.7.5 边界和代理
 
-### 3.1 Scope of Governance
+被邀请到一个目标圈的连接实体可能是另一个圈子的某个角色。
+这种情况下，那个圈子可以将连接实体更改为另一个它认为更合适的角色，或者将相关内容委托给自己的子圈。
 
-The Governance Process of a Circle has the power to:
+目标圈还可以接受请求连接到自己子圈的委托，这是这个子圆将成为连接的目标圈。
 
-- **(a)** define, amend, or remove the Circle’s Roles and Sub-Circles; and
-- **(b)** define, amend, or remove the Circle’s Policies; and
-- **(c)** hold elections for the Circle’s Elected Roles.
+每种情况下，任何代理必须通过圈子的政策授权。此外，任何变更或代理必须与交叉连接政策一致。
 
-At any given time, the then-current results of a Circle’s Governance Process define its acting **_“Governance”_**.
+## 条款3 管理过程
 
-Only those outputs listed in this section are valid Governance for a Circle; no one may capture other outputs within the Circle’s Governance records.
+### 3.1 管理范围
 
-### 3.2 Changing Governance
+圈子的管理过程具备如下权限：
 
-Any Core Circle Member of a Circle may propose changing its Governance, thus making a **_“Proposal”_** as a **_“Proposer”_**.
+- **(a)** 定义，修改或删除圈子的角色和子圈
+- **(b)** 定义，修改或删除圈子的政策
+- **(c)** 举行可选举角色的选举
 
-Before a Proposal is adopted, all Core Circle Members must have the opportunity to raise Tensions about adopting the Proposal. Each Tension so raised is considered an **_“Objection”_** if it meets the criteria defined in this section, and the person who raised it becomes the **_“Objector”_**.
+在任何给定的时间，圈子管理过程当前的结果被称作它生效的 **管理**。
 
-Proposals are considered adopted and amend the Governance of the Circle only if no Objections are so raised. If Objections are raised, the Proposer and each Objector must find a way to address the Objections before the Circle may adopt the Proposal, after which all Core Circle Members must have another opportunity to raise further Objections before the Proposal is adopted.
+只有本节列出的结果是圈子的有效管理，没人可以在圈子管理记录中获取其他结果。
 
-#### 3.2.1 Making Proposals
+### 3.2 修改管理
 
-Any Core Circle Member may make a Proposal within a **_“Governance Meeting”_** of the Circle called under the terms of Section 3.3.
+任何核心圈成员可以提出修改管理，从而形成一个 **提案**。
 
-Alternatively, a Core Circle Member may distribute a Proposal to all other Core Circle Members asynchronously, outside of a Governance Meeting, using any written communication channel approved for this purpose by the Circle’s Secretary. When this happens, the Facilitator may either apply the same process and rules used within a Governance Meeting, or may allow each Core Circle Member to directly declare whether or not he or she has Objections to integrate. Further, at any point before an asynchronous Proposal is adopted, the Facilitator or any Core Circle Member may stop the asynchronous processing by requesting the Proposer escalate the Proposal to a Governance Meeting, and notifying the Circle’s Secretary.
+在提案采纳前，所有核心圈成员都可以提出采纳提案所引发的张力。
+每个被提出的张力都称作 **反对意见**，而提出人则是 **反对人**。
 
-A Circle may adopt Policies to further constrain when or how Proposals may be made or processed outside of a Governance Meeting. However, no Policy may limit the right to stop asynchronous processing by escalating to a Governance Meeting. A Circle may also use a Policy to create a time limit for responding to asynchronous Proposals, upon which any asynchronous Proposal is automatically adopted if no Objections or escalation requests are raised.
+没有反对意见时，则采纳提案并对圈子的管理做出修改。
+有反对意见时，提案人和反对人则必须在采纳提案前找到一种解决办法，然后核心圈成员也有机会提出其他反对意见。
 
-#### 3.2.2 Criteria for Valid Proposals
+#### 3.2.1 提出提案
 
-Some Proposals are disallowed within a Circle’s Governance Process, and the Facilitator may discard these before they are fully processed.
+任何核心圈成员都可以在管理会议上根据条款3.3做出提案。
 
-To be valid for processing, a Proposal must resolve or reduce a Tension sensed by the Proposer. In addition, a Proposal must normally help the Proposer better express the Purpose or an Accountability of one of the Proposer’s Roles in the Circle. However, a Proposal may alternatively help another Circle Member better express one of that person’s Roles in the Circle, but only if that person has granted the Proposer permission to represent that Role.
+另外，核心圈成员可以在管理会议之外，以任何秘书认可的书面渠道，向所有核心圈成员异步提出提案。
+这时，协调员可以使用管理会议中相同的流程和规则，或者让每个核心圈成员直接声明他是否有反对意见。
+此外，在采纳提案前的任何时刻，协调员或核心圈成员可以终止异步处理，要求提案人将提案提交到管理会议，并通知秘书。
 
-Finally, a Proposal is always valid regardless of the preceding criteria if it is made solely to help evolve the Circle’s Governance to more clearly reflect activity that is already happening, or to trigger a new election for any Elected Role.
+一个圈子可以采用政策进一步限制何时或如何在管理会议外处理提案。
+然而，没有政策可能限制停止异步处理提案并升级到管理会议的权利。
+圈子可以创建响应异步提案时间限制的策略，在指定时间内没有任何反对意见或升级请求时自动采纳提案。
 
-#### 3.2.3 Testing Proposals
+#### 3.2.2 有效提案的标准
 
-The Facilitator may test the validity of a Proposal by asking the Proposer questions. For a Proposal to survive the test, the Proposer must be able to describe the Tension, and give an example of an actual past or present situation in which the Proposal would have reduced that Tension and helped the Circle in one of the ways allowed by the prior section. The Facilitator must discard the Proposal if the Facilitator deems the Proposer has failed to meet this threshold.
+有些提案是不允许在管理过程中提出的，协调员可以提前抛弃它们。
 
-However, when assessing the validity of a Proposal, the Facilitator may only judge whether the Proposer presented the required example and explanations, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of their accuracy, nor on whether the Proposal would adequately address the Tension.
+作为有效提案，必须能够解决或减少提案人所感到的张力。
+此外，提案必须有助于更好地表达提案人角色的目标或职责。
+有些提案可能帮助其他成员更好地表达其角色，不过这是需要他授权提案人代表才行。
 
-#### 3.2.4 Criteria for Valid Objections
+最后，如果一个提案有助于更清楚地反映已经发生的活动或引发新的选举，则它就是有效的，而不管前面的标准。
 
-Some Tensions do not count as Objections, and may be ignored during the processing of a Proposal. A Tension only counts as an Objection if it meets **all** of the criteria defined in (a) through (d) below, or the special criteria defined in (e):
+#### 3.2.3 测试提案
 
-- **(a)** If the Tension were unaddressed, the capacity of the Circle to express its Purpose or enact its Accountabilities would degrade. Thus, the Tension is not just triggered by a better idea or a potential for further improvement, but because the Proposal would actually move the Circle backwards in its current capacity. For the purpose of this criteria, decreasing clarity counts as degrading capacity, although merely failing to improve clarity does not.
-- **(b)** The Tension does not already exist for the Circle even in the absence of the Proposal. Thus, the Tension would be created specifically by adopting the Proposal, and would not exist were the Proposal withdrawn.
-- **(c)** The Tension is triggered just by presently known facts or events, without regard to a prediction of what might happen in the future. However, relying on predictions is allowed when no opportunity to adequately sense and respond is likely to exist in the future before significant impact could result.
-- **(d)** The Tension limits the Objector's capacity to express the Purpose or an Accountability of one of the Objector’s Roles in the Circle; or, if it limits another Role, the Objector has permission to represent that Role from a Circle Member who normally fills the Role.
+协调员可以通过向提案人提问的方式测试提案的有效性。
+为了通过测试，提案人必须能够描述张力，并给出提案能减少张力的过去或现在的实例，而这个提案需要符合前面的标准。
+如果协调员认为提案人未能满足要求则必须抛弃提案。
 
-However, regardless of the above criteria, a Tension about adopting a Proposal always counts as an Objection if:
+当评价一个提案有效性时，协调员只能判断提案人是否给出必要的例子和解释，以及它们是否进行符合逻辑。
+协调员不能根据其准确性作出判断，也不能对该提案是否充分解决张力作出判断。
 
-- **(e)** Processing or adopting the Proposal breaks the rules defined in this Constitution, or prompts the Circle or its members to act outside of the authority granted under this Constitution. For example, Next-Actions, Projects, and specific operational decisions are typically not valid Governance outputs per the terms of Section 3.1, so anyone involved could raise an Objection that a Proposal to enact these outputs would violate the rules of the Constitution.
 
-#### 3.2.5 Testing Objections
+#### 3.2.4 有效反对的标准
 
-The Facilitator may test the validity of a claimed Objection by asking the Objector questions. For a claimed Objection to survive the test, the Objector must be able to present a reasonable argument for why it meets each specific criteria required of an Objection. The Facilitator must discard an Objection if the Facilitator deems the Objector has failed to meet this threshold.
+有些张力并不能算作反对意见，需要在处理提案的过程中忽略。
+只有满足如下(a)到(d)时，或满足(e)的特殊标准时，才算是一种有效的反对：
 
-When assessing the validity of a claimed Objection, the Facilitator may only judge whether the Objector presented the required arguments, and whether they were presented with logical reasoning and are thus reasonable. The Facilitator may not make a judgment on the basis of an argument’s accuracy or the importance of addressing it.
+- **(a)** 如果不解决张力，圈子表达其目的或职责的能力会降低。
+因此，张力不是由更好的想法或潜在的改进所引发的，而这一提案实际上可能导致圈子向后退化。
+在这个标准下，降低清晰度被视为降低能力，虽然只是提高清晰度不能改进能力。
+- **(b)** 在没有提案的情况下，这种张力不存在。
+因此，这种张力将因为采用该提案而存在，而撤回提案时并不会存在。
+- **(c)** 张力是由目前已知的事实或事件所引发的，而不预测将来可能发生的事情。
+然而，当导致重大影响前没有机会充分的意识和响应时，是可以做一些预测的。
+- **(d)** 张力限制反对人的表达圈子中的反对人的角色和职责；或者它限制的另一个角色，而反对人有权代表那个角色。
 
-However, when an Objection is claimed on the basis of a Proposal violating the Constitution, per Section 3.2.4(e), the Facilitator may ask the Circle’s Secretary to interpret if the Proposal does indeed violate the Constitution. If the Secretary rules that it does not, the Facilitator must then dismiss the Objection.
+然而，不管上述标准，满足如下标准的总算是有效的反对意见：
 
-#### 3.2.6 Rules of Integration
+- **(e)** 处理或采用提案违反本章程中规定的规则，或指使圈子或成员在章程授予的权限外行事。
+例如，下一步的行动、项目和具体的经营决策通常不是根据第3.1条的有效管理产出，因此任何人都可以提出反对意见，认为制定这些产出的提案将违反章程的规定。
 
-When an Objection to a Proposal is raised, the following additional rules apply during the search for a resolution:
 
-- **(a)** The Facilitator must test an Objection if requested by any Core Circle Member, and discard it if it fails to meet the validity criteria described in this Section.
-- **(b)** The Objector must attempt to find an amendment to the Proposal that will resolve the Objection and still address the Proposer’s Tension. Others may help. If the Facilitator concludes that the Objector is not making a good faith effort to find a potential amendment at any point, then the Facilitator must deem the Objection abandoned and continue processing the Proposal as if the Objection had not been raised.
-- **(c)** Any Core Circle Member may ask the Proposer clarifying questions about the Tension behind the Proposal, or about any examples the Proposer shared to illustrate the Tension. If the Facilitator concludes that the Proposer is not making a good faith effort to answer those questions at any point, then the Facilitator must deem the Proposal invalid for processing and abandoned.
-- **(d)** The Objector may suggest an amended Proposal, and offer reasonable arguments for why it should resolve or prevent the Tension in each specific situation the Proposer used to illustrate the Tension. Then, upon the Objector’s request, the Proposer must present a reasonable argument for why the amended Proposal would fail to resolve or prevent the Tension in at least one specific situation already presented. Alternatively, the Proposer may add an additional example that the amended Proposal would not resolve, but which still meets the criteria for processing a Proposal required by Section 3.2.2. If the Facilitator concludes that the Proposer has failed to meet one of these thresholds, then the Facilitator must deem the Proposal invalid for processing and abandoned.
+#### 3.2.5 测试反对意见
 
-### 3.3 Governance Meetings
+协调员可以问反对人问题来测试反对意见的有效性。
+为了通过测试，反对人必须能够提出一个合理的论点，描述它为什么满足每一个具体的标准。
+如果协调员认为未能通过测试，则需要抛弃这个反对意见。
 
-The Secretary of a Circle is responsible for scheduling Governance Meetings to enact the Circle’s Governance Process.
+评估反对意见有效性时，协调员只能判断反对人是否提出所需的论点，以及论点是否合理。
+协调员不得在论点准确性或重要性的基础上作出判断。
 
-In addition to any regular, recurring Governance Meetings the Secretary schedules, the Secretary is responsible for scheduling additional special Governance Meetings promptly upon request of any Core Circle Member.
+然而，当一个反对意见指出提案违反章程时，协调员会让秘书来解释提案是否真的违反章程。
+如果秘书不这样认为，协调员必须驳回该反对意见。
 
-The Facilitator is responsible for presiding over all Governance Meetings in alignment with the following rules and any relevant Policies of the Circle.
 
-#### 3.3.1 Attendance
+#### 3.2.6 整合规则
 
-All Core Circle Members are entitled to fully participate in all Governance Meetings of a Circle. The acting Facilitator and Secretary are also entitled to fully participate, and become Core Circle Members for the duration of a Governance Meeting even if they are not normally Core Circle Members.
+当提案有反对意见时，可以使用以下附加规则来寻求解决方案：
 
-In addition, the Lead Link and any Rep Links or Cross Links to the Circle may each invite up to one additional person, solely to aid the link in processing a specific Tension. The invited participant then becomes a Core Circle Member as well for the duration of that Governance Meeting.
+- **(a)** 任何核心圈成员要求时，协调员必须测试反对意见，并在它不能够满足标准时抛弃。
+- **(b)** 反对人必须试图找到一个修正案来解决反对意见，且解决提案人的张力。这时其他人可以提供帮助。
+如果协调员认为反对人并不是做出一个善意的努力来找到潜在的改进，那么协调员必须抛弃反对意见继续处理提案，就像反对意见未被提出一样。
+- **(c)** 任何核心圈成员可以要求提案人澄清提案背后张力的问题，或澄清他用来说明张力的例子。
+如果协调员认为提案人没有试图回答这些问题，协调员则可以提案无效并加以废弃。
+- **(d)** 反对人可以提出修改提案，并提供合理的论点解释为什么它可以在每一个具体的情况下解决或防止张力。
+然后，针对反对人的要求，提案人必须提出一个合理的论点：为什么修改后的方案无法至少在一个特定的情况下解决或防止已经出现了的张力。
+另外，提案人可以添加一个额外的例子，说明修改后的方案也不能解决问题，但这仍然符合第3.2.2所要求的处理提案的标准。
+如果协调员认为提案人未能达标，协调员则必须认为提案无效并废弃处理。
 
-Beyond those listed in this paragraph, no one else is allowed to participate in a Circle’s Governance Meetings unless explicitly invited by a Policy of the Circle.
+### 3.3 管理会议
 
-#### 3.3.2 Notice & Quorum
+秘书有责任安排管理会议来执行圈子的管理过程。
 
-A Circle may only conduct its Governance Process in a meeting if the Secretary has given all Core Circle Members reasonable advance notice that a Governance Meeting will be held, including its time and location.
+除了定期的，经常性的管理会议外，秘书有责任呢安排额外的特别管理会议，如何任何核心圈成员要求的话。
 
-Beyond this notice requirement, there is no quorum required for a Circle to conduct a Governance Meeting, unless one is specified by a Policy of the Circle.
+协调员负责主持所有的管理会议，以符合下列圈子的规定和相关政策。
 
-Anyone who fails to attend a Governance Meeting counts as having had the opportunity to consider all Proposals made within the meeting, and raised no Objections to their adoption.
+#### 3.3.1 出席
 
-#### 3.3.3 Meeting Process
+所有核心圈成员有权参与所有圈子管理会议。
+协调员和秘书也有权完全参与，并在管理会议上成为核心圈成员（如果他们不是通常的核心圈成员的话）。
 
-The Facilitator must use the following process for Governance Meetings:
+此外，引导连接和任何代表连接或交叉连接可以邀请额外的人，来处理特定的张力。受邀的参与者在管理会议期间成为核心圈成员。
 
-- **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
-- **(b) Administrative Concerns:** The Facilitator allows space to discuss and resolve any administrative or logistical matters the Facilitator deems worthy of attention.
-- **(c) Agenda Building & Processing:** The Facilitator builds an agenda of Tensions to process, then processes each agenda item in turn.
-- **(d) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
+除此之外，没有其他人可以参加管理会议，除非由政策明确邀请。
 
-A Policy of the Circle may add to this process, but may not conflict with any of the steps or other rules defined in this Article of the Constitution.
+#### 3.3.2 通知及法定人数
 
-#### 3.3.4 Agenda Building
+如果秘书已经给所有核心圈成员合理的提前通知（包括其时间和地点），那么圈子只能在会议上进行管理过程。
 
-The Facilitator must build an agenda of Tensions to process within a Governance Meeting by soliciting and capturing agenda items from all participants. This must be done within the meeting and not beforehand, and each participant may add as many agenda items as desired. Participants may add additional agenda items during the meeting as well, in between the processing of any existing agenda items.
+除了这个通知要求外，没有其他关于管理会议的法定人数要求的规则，除非圈子的特殊政策指定。
 
-- **(a) Agenda Item Format:** Each agenda item in a Governance Meeting represents one Tension to process, sensed by the participant who added it to the agenda. When adding an agenda item, a participant may only provide a short label for the Tension, and may not explain or discuss the Tension further until processing of that agenda item actually begins.
-- **(b) Ordering the Agenda:** The Facilitator may determine the order in which to process agenda items, using any process or criteria the Facilitator deems appropriate. However, the Facilitator must place any agenda item calling for an election of any of the Circle’s Elected Roles before all other agenda items, if requested by any meeting participant. Further, if the meeting was scheduled at the special request of one participant, the Facilitator must place all agenda items raised by that participant before any raised by others, unless that participant allows otherwise.
-- **(c) Processing Agenda Items:** Once the Facilitator determines an initial order for the agenda, the Facilitator must lead participants through processing each agenda item, one at a time. To process an agenda item that calls for an election, the Facilitator must use the **_“Integrative Election Process”_** defined in Section 3.3.6. To process any other agenda item, the Facilitator must use the **_“Integrative Decision-Making Process”_** defined in Section 3.3.5.
+任何没有参加管理会议的人都被认为有机会考虑会议中的所有提案，而没有反对它们的通过。
 
-#### 3.3.5 Integrative Decision-Making Process
+#### 3.3.3 会议过程
 
-The Facilitator must enact the Integrative Decision-Making Process as follows:
+协调员使用如下的过程来主持管理会议：
 
-- **(a) Present Proposal:** First, the Proposer may describe the Tension and present a Proposal to address the Tension. If the Proposer requests help crafting a Proposal, the Facilitator may allow discussion or another collaborative process to assist. However, the Facilitator must focus this activity solely on crafting an initial Proposal for the Proposer’s Tension, and not on addressing other Tensions or integrating others’ concerns into the Proposal.
-- **(b) Clarifying Questions:** Once the Proposer makes a Proposal, the other participants may ask clarifying questions to better understand the Proposal or the Tension behind it. The Proposer may answer each question, or may decline to do so. The Facilitator must disallow any reactions or opinions expressed about the Proposal, and prevent discussion of any kind. Any participant may also ask the Secretary to read the captured Proposal or clarify any existing Governance, during this step or at any other time when the participant is allowed to speak, and the Secretary must do so.
-- **(c) Reaction Round:** Once there are no further clarifying questions, each participant except the Proposer may share reactions to the Proposal, one person at a time. The Facilitator must immediately stop and disallow any out-of-turn comments, any attempts to engage others in a dialog or exchange of any sort, and any reactions to other reactions instead of to the Proposal.
-- **(d) Amend & Clarify:** After the reaction round, the Proposer may share comments in response to the reactions and make amendments to the Proposal. However, the primary intent of any amendments must be to better address the Proposer’s Tension, and not Tensions raised by others. During this step, the Facilitator must immediately stop and disallow any comments by anyone other than the Proposer or Secretary, and any engagement by the Secretary must focus solely on capturing the amended Proposal.
-- **(e) Objection Round:** Next, each participant, one at a time, may raise potential Objections to adopting the Proposal. The Facilitator must stop and disallow discussion or responses of any sort. The Facilitator may test Objections as described in Section 3.2.5, and must capture any valid Objections that remain after testing. If there are no valid Objections, the Secretary records the Proposal as adopted Governance for the Circle.
-- **(f) Integration:** If there are valid Objections, the Facilitator then facilitates a discussion to amend the Proposal to resolve each Objection, one at a time. The Facilitator marks an Objection as resolved once the Objector confirms that the amended Proposal would not trigger the Objection, and the Proposer confirms that the amended Proposal would still address the Proposer’s Tension. During the discussion, the Facilitator must apply the rules of integration described in Section 3.2.6. Once all captured Objections are addressed, the Facilitator moves back to the Objection round to check for new Objections to the amended Proposal.
+- **(a) 签到环节:** 协调员允许每位参与者分享他们当前的状态、想法或评论，这时不允许回应。
+- **(b) 行政要务:** 协调员允许讨论和解决任何他认为值得关注行政或后勤问题。
+- **(c) 议程制定和处理:** 协调员建立一个基于张力的议程，然后依次处理每个项目。
+- **(d) 结尾环节:** 协调员允许每位参与者分享闭幕思考者会议引起的其的想法，这时不允许回应。
 
-#### 3.3.6 Integrative Election Process
+圈子可以为过程添加一个政策，但是不能与章程中定义的任何步骤或其他规则冲突。
 
-The Facilitator must enact the Integrative Election Process as follows:
 
-- **(a) Describe Role:** First, the Facilitator must identify the target Role and term for the election. The Facilitator may also describe the functions of the target Role, and present other relevant information about the Role.
-- **(b) Fill Out Ballots:** Each participant must then fill out a ballot to nominate whomever the participant believes is the best fit for the Role among all eligible candidates. Each participant must label the ballot with his or her own name as well, and no one may abstain or nominate multiple people. Before and during this step, the Facilitator must promptly stop all comments or discussion about potential candidates or nominations.
-- **(c) Nomination Round:** Once all ballots are submitted, the Facilitator must share the contents of each ballot, one at a time, with all participants. When the Facilitator shares a nomination, the nominator must state why he or she believes that candidate would be a good fit for the Role. The Facilitator must stop any responses or other comments, as well as any comments by a nominator about other potential candidates besides the nominee.
-- **(d) Nomination Change Round:** Once all nominations are shared, the Facilitator must give each participant the opportunity to change his or her nomination. A participant making a change may explain his or her reason for selecting a new candidate, but the Facilitator must stop any other comments or discussion.
-- **(e) Make a Proposal:** Next, the Facilitator must count the nominations and make a Proposal to elect the candidate with the most nominations for the specified term. If there is a tie for the most nominations, then the Facilitator may do any one of the following: (i) blindly select one of the tied candidates randomly, and propose that person; or (ii) if the person currently filling the Role is among those tied, propose that person; or (iii) if only one of the tied candidates has nominated himself or herself, propose that person; or (iv) go back to the previous step and require each participant who nominated someone other than a tied candidate to change that nomination to one of the tied candidates, then continue back to this step and re-apply its rules.
-- **(f) Process Proposal:** Once the Facilitator makes a Proposal to elect a candidate, the Facilitator must move to the Integrative Decision-Making Process to resolve that Proposal. However, the Facilitator must start directly with the Objection round, and, if the proposed candidate is present, the Facilitator must ask the candidate for Objections last. If any Objections are raised, the Facilitator may choose to process them normally, or to discard the Proposal either immediately after the Objection round or at any point during the integration step. If the Facilitator opts to discard the Proposal, the Facilitator must go back to the prior step in this process, discard all nominations for the prior candidate, and follow the rules of the prior step to select another candidate to propose instead.
+#### 3.3.4 构建议程
 
-#### 3.3.7 Operational Decisions in Governance Meetings
+协调员必须在管理会议中征求参与者提出的项目，来构建需要处理的张力的议程。
+这必须在会议中进行，而不能提前进行，每个参与者都可以增加尽可能多的议程。
+与会者也可以在会议中议程之间添加额外议程。
 
-Governance Meetings are primarily intended to support a Circle’s Governance Process. As long as it does not distract from this intended focus, any participant may nonetheless accept Projects or Next-Actions during a Governance Meeting, or make other operational decisions that are outside the scope of the Circle’s Governance Process. However, the Secretary may not capture any operational outputs or decisions in the formal Governance minutes or records of the Circle. Further, operational outputs and decisions made in a Governance Meeting carry no more or less weight or authority than those made outside of a Governance Meeting.
+- **(a) 议程项格式:** 管理会议的每个议程项都代表一个待处理的张力，它是由参与人感受并添加到议程中的。
+添加一个议程项时，参与者只需为张力提供一个简短的标签，在开始处理前不需解释或讨论它。
+- **(b) 议程排序:** 协调员可以用任何方法决定议程顺序。
+不过如果有人要求进行选举的话，协调员必须优先处理这个议程。
+如果会议是应一个参与者的特别要求召开的，协调员必须优先讨论他的议程，除非这个他允许。
+- **(c) 处理议程项:** 一旦协调员决定了议程的初始顺序，他必须带领大家一次一项地依次处理每个议程。
+对于选举议程项，协调员必须使用章程3.3.6里定义的 **综合选举过程**。
+处理其他议程项，协调员必须使用章程3.3.5里定义的 **综合决策过程**。
 
-### 3.4 Interpreting the Constitution & Governance
+#### 3.3.5 综合决策过程
 
-As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the Secretary of any Circle that is affected by the Governance. However, in either case, the following additional terms apply:
+协调员如下执行综合决策过程：
 
-#### 3.4.1 Secretary Interpretation Trumps
+- **(a) 介绍提案:** 首先，提案人可以描述张力并提出解决张力的提案。
+如果提案人要求帮助制定提案，协调员可以允许大家通过讨论等方法来协助。
+然而，协调员必须将当前活动集中在起草解决张力的初始提案上，而不是描述其他张力或整合他人观点。
+- **(b) 提问环节:** 其他人通过提问来更好地理解提案及其背后的张力。
+提案人可以回答问题，也可以拒绝回答。
+协调员必须禁止任何关于这个提案的回应或观点，并禁止任何形式的讨论。
+任何人也可以要求秘书阅读提案或澄清管理，而秘书必须这样做。
+- **(c) 回应环节:** 一旦没有需进一步澄清的问题，每个人都有机会回应，一次一人。
+协调员必须立即停止和禁止任何轻率的评论，任何讨论，和针对回应的回应。
+- **(d) 修改和阐述:** 回应结束后，提案人可以分享对回应的意见并修改提案。
+然而，任何修正案的主要目的必须是更好地解决提案人的张力，而不是由别人引起的张力。
+这步中，协调员必须立即停止和禁止任何非提案人或秘书的意见，并且秘书必须专注于记录提案的修改。
+- **(e) 反对环节:** 然后每个参与者可以一人一次地提出反对意见。
+协调员必须停止和禁止任何形式的讨论或反应。
+协调员可以按照章程3.2.5所描述的方法测试反对意见，并保留通过测试的反对意见。
+如果没有有效的反对意见，秘书将采纳该提案作为圈子的管理。
+- **(f) 整合环节:** 如果有有效的反对意见，调解人需要发起一个讨论来修改提案，以解决每个反对意见，一次一个。
+一旦反对人认为修改后的提案不会引发反对意见，而且提案人认为修改后的提案仍可以解决张力，
+协调员则认为这个反对意见被解决了。在讨论过程中，协调员必须采用章程3.2.6描述的集成规则。
+一旦所有反对意都被解决了，协调员可以额回到反对环境以验证针对修改后的提案的新的反对意见。
 
-If your interpretation conflicts with an interpretation ruling made by a Secretary, the Secretary’s interpretation trumps your own and applies instead, and you are responsible for aligning with it until any underlying Governance changes.
+#### 3.3.6 综合选举过程
 
-#### 3.4.2 Super-Circle Interpretation Trumps
+协调员如下执行综合选举过程：
 
-A Circle’s Secretary may overrule an interpretation given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you are responsible for aligning with the interpretation given by the broader Circle’s Secretary.
+- **(a) 描述角色:** 首先，协调员必须确定选举的角色和任期。
+协调员还可以描述目标角色的功能和其他相关信息。
+- **(b) 填写选票:** 每人必须填写选票提名任何他认为最适合的候选人。
+投票采用实名制，不可弃权，也不可选多人。
+这一步协调员必须立即停止对潜在候选人或提名的所有评论或讨论。
+- **(c) 提名环节:** 提交所有选票后，协调员必须与所有人分享每张投票的内容，一次一张。
+当协调员分享一个提名时，提名人必须说明为什么他认为候选人能够胜任这个角色。
+协调员必须停止任何反应或其他的评论，以及提名人针对其他潜在候选人的评论。
+- **(d) 修改环节:** 所有提名分享后，协调员必须给每个人修改提名的机会。
+修改人可以解释选择新候选人的理由，但协调员必须停止任何形式的讨论。
+- **(e) 做出提案:** 协调员计算提名，并提案最多提名人担任这个任期。
+如果出现平局，协调员可以如下处理：
+(一) 在平局人中随机选一个，并提出该人；
+(二) 如果目前担任该角色的人在平局中，提出该人；
+(三) 如果只有一人选的是自己，提出该人，
+(四) 回到前一步，要求每张非平局人的选票改为平局者之一，并重新执行规则。
+- **(f) 处理提案:** 一旦提案某候选人，则需要使用综合决策过程来解决这一提案。
+协调员必须直接进入反对环节；如果候选人在场，协调员最后征求候选人的反对意见。
+如果有任何反对意见，协调员可以选择正常处理它们，或在整合步骤中的任何一点后立即放弃该提案。
+如果协调员放弃提案，协调员必须抛弃之前所有提名，并按照之前的规则选择另一位候选人。
 
-#### 3.4.3 Interpretations Become Standards
+#### 3.3.7 管理会议的经营决策
 
-After ruling on an interpretation, a Secretary may choose to publish that interpretation and the logic behind it in the Governance records of the Circle. If published, the Secretary of that Circle and the Secretaries of any contained Circles are responsible for attempting to align any future rulings with the previously published logic and interpretations.
+管理会议主要是完成圈子的管理过程。
+只要不分散这种注意力，任何人都可以在管理会议期间接受项目或下一步行动，或做出其他经营决定。
+不过，秘书不得在圈子的正式管理记录中记录经营相关内容或决定。
+此外，在管理会议上所作的经营决策不比在管理会议之外做出的更重要或次要。
 
-A Secretary may only contradict previously published logic or interpretations once a compelling new argument or circumstance supports a reversal. Once contradicted however, the new logic and interpretations become the acting standard that all future rulings must align with.
+### 3.4 对章程和管理的解释
 
-#### 3.4.4 Striking Invalid Governance
+作为组织合伙人，你可以使用自己合理的判断来解释章程和组织的管理，包括如何在特定的情况下应用它们。
+你还可以参考任何受管理影响的圈子的秘书的明确解释。
+不过，在两种情况下，以下附加条款都适用：
 
-Any Circle Member of a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Core Circle Members of the Circle that held the offending Governance.
 
-### 3.5 Process Breakdown
+#### 3.4.1 秘书解释优先
 
-A **_“Process Breakdown”_** occurs when a Circle shows a pattern of behavior that conflicts with the rules of this Constitution.
+如果你的解释和一位秘书冲突，秘书的解释将取胜，你有责任遵守它直到管理发生变化。
 
-#### 3.5.1 Breakdown from Failed Governance
+#### 3.4.2 父圈解释优先
 
-The Facilitator of a Circle may declare a Process Breakdown in the Circle if the Core Circle Members fail to successfully process a Proposal in a Governance Meeting, even after a reasonably long time is spent trying to do so. If the Proposer specially requested that Governance Meeting specifically for processing that Proposal, then the Proposer may also declare a Process Breakdown in this case.
+父圈的秘书可以否决的子圈秘书给出的解释。
+如果两个秘书上发生矛盾，而其中一个圈子包含另一个圈子，那么大圈子秘书的解释优先。
 
-#### 3.5.2 Breakdown from Unconstitutional Behavior
+#### 3.4.3 解释成为标准
 
-The Facilitator of a Circle may declare a Process Breakdown within one of its Sub-Circles upon discovering a pattern of behavior or outputs within the Sub-Circle that conflict with the rules of this Constitution. However, if that Facilitator is also the Sub-Circle’s Lead Link or Facilitator, then the Super-Circle’s Secretary or Rep Link may also make this declaration.
+一旦给出解释，秘书可以在管理记录中公布该解释及其背后逻辑。
+然后圈子的秘书和任何子圈的秘书都有责任在未来遵从公布的逻辑和解释。
 
-#### 3.5.3 Process Restoration
+只有一个令人信服的新论据或情况支持逆转时，秘书才可能反驳先前已发表的逻辑或解释。
+一旦矛盾，新的逻辑和解释将会成为未来的规则。
 
-Whenever an authorized party declares a Process Breakdown within a Circle, the following occurs:
+#### 3.4.4 打击无效管理
 
-- **(a)** the Facilitator of the Super-Circle gains a Project to restore due-process within the Circle; and
-- **(b)** the Facilitator of the Super-Circle gains the authority to take over as Facilitator or Secretary of the Circle, or to appoint someone else to do so; and
-- **(c)** the Facilitator of the Circle gains the authority to judge the accuracy of any arguments presented to validate Tensions or Objections within the Circle’s Governance Process.
+任何圈子成员都可以要求秘书按照圈子的合法规则来管理。
+根据这样的要求，如果秘书认为管理与章程冲突，则秘书必须打击违规的管理制度。
+这样做以后，秘书必须及时和所有核心圈成员沟通原因。
 
-These authorities are temporary and cease as soon as the Facilitator of the Super-Circle concludes that due process has been restored within the Circle.
 
-#### 3.5.4 Escalation of Process Breakdown
+### 3.5 过程崩溃
 
-A Process Breakdown of one Circle may not be considered a Process Breakdown of its Super-Circle, as long as the Super-Circle’s Facilitator is working to resolve the Process Breakdown promptly and diligently.
+圈子行为与章程冲突时，就发生了 **过程崩溃** 。
 
-However, if the Process Breakdown is not resolved within a reasonable timeframe, then the Facilitator of any Super-Circle that ultimately contains the offending Circle may declare a Process Breakdown within the offending Circle’s Super-Circle as well.
+#### 3.5.1 失败管理的过程崩溃
 
-## Article 4: Operational Process
+如果在管理会议上核心圈成员未能成功处理某个提案，协调员就可以宣布过程崩溃。
+如果提案人特别要求管理会议处理这项提案，那么提案人也可以在这时宣布过程崩溃。
 
-### 4.1 Duties of Circle Members
+#### 3.5.2 规章行为行为的过程崩溃
 
-When filling a Role in a Circle, you have the following duties to your fellow Circle Members when they’re acting on behalf of other Roles in the Circle.
+如果协调员发现子圈的行为或者结果与章程冲突，那么他可以宣布子圈过程崩溃。
+如果者个协调员也是子圈的引导连接或协调员，那么父圈的秘书或代表连接也可以宣布过程崩溃。
 
-#### 4.1.1 Duty of Transparency
+#### 3.5.3 过程恢复
 
-You have a duty to provide transparency when requested by your fellow Circle Members, in any of the following areas:
+当宣布过程崩溃时，将发生：
 
-- **(a) Projects & Next-Actions:** You must share any Projects and Next-Actions you are tracking for your Roles in the Circle.
-- **(b) Relative Priority:** You must share your judgment of the relative priority of any Projects or Next-Actions tracked for your Roles in the Circle, vs. any other potential activities competing for your attention or resources.
-- **(c) Projections:** You must provide a projection of the date you expect to complete any Project or Next-Action tracked for any of your Roles in the Circle. A rough estimate is sufficient, considering your current context and priorities, but without detailed analysis or planning. This projection is not a binding commitment in any way, and unless Governance says otherwise, you have no duty to track the projection, manage your work to achieve it, or follow-up with the recipient if something changes.
-- **(d) Checklist Items & Metrics:** You must share whether you have completed any regular, recurring actions that you routinely perform in service of your Roles in the Circle. You must also track and report on any metrics assigned to your Roles by the Circle’s Lead Link, or by any other Role or process granted the authority to define the Circle’s metrics.
+- **(a)** 父圈的协调员获得一个恢复圈内的过程的项目；
+- **(b)** 父圈的协调员获得权限代替子圈协调员或秘书，或任命其他人这样做；
+- **(c)** 圈子的协调员获得的特权判断任何论点的准确性，以验证圈子管理过程中的张力或反对意见。
 
-#### 4.1.2 Duty of Processing
+这些机制是暂时的，一旦父圈的协调员认为子圈过程已经恢复则立即终止。
 
-You have a duty to promptly process messages and requests from your fellow Circle Members, as follows:
+#### 3.5.4 过程崩溃的升级
 
-- **(a) Requests for Processing:** Other Circle Members may ask you to process any Accountability or Project on a Role you fill in the Circle. If you have no Next-Actions tracked for it, you must identify and capture a Next-Action if there are any reasonable ones you could take. If there are not, you must instead share what you’re waiting on. That must be either a Next-Action or Project tracked by another Role, or a specific event or condition that must happen before you can take further Next-Actions.
-- **(b) Requests for Projects & Next-Actions:** Other Circle Members may ask you to take on a specific Next-Action or Project in one of your Roles in the Circle. If you deem it a reasonable Next-Action or Project to take on, you must accept it and track it. If not, then you must either explain your reasoning, or capture and communicate a different Next-Action or Project that you believe will meet the requester’s objective.
-- **(c) Requests to Impact Domain:** Other Circle Members may ask to impact a Domain controlled by one of your Roles in the Circle. If you see no Objections to the request, you must allow it. If you do, you must explain any Objections to the requester.
+子圈过程崩溃并不是父圈的崩溃，只要父圈协调员及时努力地解决这个问题。
 
-#### 4.1.3 Duty of Prioritization
+但是如果过程崩溃不能在一个合理的时间内解决，那么更上级圈的协调员可以宣布父圈过程崩溃。
 
-You have a duty to prioritize where to focus your attention and resources in alignment with the following constraints:
+## 条款4 经营过程
 
-- **(a) Processing Over Execution:** You must generally prioritize processing inbound messages from fellow Circle Members over executing your own Next-Actions. However, you may temporarily defer processing in order to batch process messages in a single time block or at a more convenient time, as long as your processing is still reasonably prompt. Processing means engaging in the duties described in this section, including considering the message, defining and capturing Next-Actions or Projects when appropriate, and, upon request, responding with how the message was processed. Processing does not mean executing upon captured Next-Actions and Projects, which is not covered by this prioritization rule.
-- **(b) Requested Meetings Over Execution:** On request of a fellow Circle Member, you must prioritize attending any Circle meeting required by this Constitution over executing your own Next-Actions. However, you may still decline the request if you already have plans scheduled over the meeting time, or if the request was for an ongoing series or pattern of meetings rather than a specific meeting instance.
-- **(c) Circle Needs Over Individual Goals:** You must integrate and align with any official prioritizations or Strategies of the Circle, such as those specified by the Circle’s Lead Link, when assessing how to deploy your time, attention, and other resources to your work within the Circle.
+### 4.1  圈子成员的义务
 
-#### 4.1.4 Links May Convey Duties
+当你填充一个角色时，对其他角色有如下的义务。
 
-As a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone else to engage the Circle Members of the Circle in the duties specified in this section. You may only extend this invitation to aid in the processing of a specific Tension affecting the entity you are linked from, and only if you also sense the Tension and stay engaged in its processing. The person you invite temporarily becomes a full Circle Member, as if he or she also fills your link role, but only while directly processing that specific Tension. You may withdraw this invitation anytime.
+#### 4.1.1 透明度的义务
 
-#### 4.1.5 Implicit Expectations Hold No Weight
+在下列任何领域中，您有义务提供同事要求的透明度：
 
-All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
+- **(a) 项目和下一步行动:**
+你必须分享自己角色跟踪的项目和下一步行动。
+- **(b) 相对优先权:**
+你必须分享你对项目或下一步行动相对优先级的判断，对比其他争夺你注意力或资源的潜在活动。
+- **(c) 预测:**
+你必须提供期望完成项目或下一步行动的日期的预期。
+考虑到你目前的背景和优先级，一个粗略的估计就足够了，不需要详细的分析或规划。
+这一预测并不是一个有约束力的承诺，除非管理做了约定，你没有责任跟踪预测，管理你的工作以实现它，或发生变化时跟踪它。
+- **(d) 清单项目和指标:**
+你必须与你分享你是否已经完成了你角色中经常做的重复性行为。
+您还必须跟踪和报告任何引导连接或其他方式分配给你的指标。
 
-### 4.2 Tactical Meetings
+#### 4.1.2 处理的义务
 
-The Secretary of a Circle is responsible for scheduling regular **_“Tactical Meetings”_** to facilitate the Circle’s operations. The Facilitator is responsible for presiding over Tactical Meetings in alignment with the following rules and any relevant Policies of the Circle.
+你有义务及时处理来自同事的信息和请求：
 
-#### 4.2.1 Focus & Intent
+- **(a) 处理职责和项目的要求:**
+其他同事可以要求你处理你填充角色的职责和项目。
+如果你没有针对它的下一步行动，就必须选择一个合理的下一步行动。
+如果没有，你必须分享你所等待的内容。
+它必须是其他角色的下一步动作或项目，或是在下一步行动前必须发生的事件或条件。
+- **(b) 处理项目和下一步行动的要求:**
+其他同事可以要求你采取一个你填充角色的下一步动作或项目。
+如果你认为是合理的，你必须接受并跟踪它。
+如果不是，你必须解释原因，或选择另一个能满足请求者目标的下一步行动或项目。
+- **(c) 影响职权范围的要求:**
+其他的圈成员可能会要求影响你角色的职权。
+如果找不到反对理由，你必须允许它。
+如果你拒绝，你需要解释原因。
 
-Tactical Meetings are for:
+#### 4.1.3 确定优先级的义务
 
-- **(a)** sharing the completion status of recurring actions on checklists owned by the Circle’s Roles;
-- **(b)** sharing regular metrics assigned to the Circle’s Roles to report;
-- **(c)** sharing progress updates about Projects and other work owned by the Circle’s Roles; and
-- **(d)** triaging Tensions limiting the Circle’s Roles into Next-Actions, Projects, or other outputs that help reduce those Tensions.
+你有义务按照以下约束确定注意力和资源的优先级：
 
-#### 4.2.2 Attendance
+- **(a) 处理临时任务:**
+你必须优先于自己的下一步行动处理来自同事的消息。
+为了批处理或在更方便的时间处理，你可以暂时推迟处理，如果处理仍是及时的话。
+处理意味着接受这里描述的职责，包括考虑消息，在合适时候定义下一个动作或项目，并根据请求响应消息处理的方式。
+处理并不意味着执行下一个动作和项目。
+- **(b) 被要求参加的会议优于临时任务:**
+在同事的要求下，你必须优先于自己的下一步行动参与圈会议。
+但是，如果你在会议时间上已经安排了工作，或者如果这不是特殊会议（而是一个反复周期的会议），你可以拒绝这个要求。
+- **(c) 圈子的需求优于个人目标:**
+你有义务与官方优先级或战略保持一致，就像引导连接所指定的那样。
 
-All Core Circle Members and anyone else normally invited to participate in the Circle’s Governance Meetings are also invited to participate in its Tactical Meetings, unless a Policy says otherwise. There is no advance notice or quorum required for a Tactical Meeting, unless a Policy says otherwise.
+#### 4.1.4 连接可以传达义务
 
-#### 4.2.3 Facilitation & Process
+作为引导连接，代表连接，或交叉连接，你可以邀请其他人来参与圈子的工作。
+你可以扩展这一邀请以协助处理影响与你连接实体的张力。
+你邀请的人暂时成为一个圈成员，仿佛他担任你角色一样。
+而你可以随时撤回这个邀请。
 
-The Facilitator must normally use the following process for Tactical Meetings:
+#### 4.1.5 隐含期望无效
 
-- **(a) Check-in Round:** The Facilitator allows each participant in turn to share their current state or thoughts, or offer another type of opening comment for the meeting. Responses are not allowed.
-- **(b) Checklist Review:** The Facilitator asks each participant to verify the completion of any recurring actions on that participant’s checklist.
-- **(c) Metrics Review:** The Facilitator asks each participant to share data for any metrics assigned to that participant by the Lead Link or whatever other Role or process defines the Circle’s metrics.
-- **(d) Progress Updates:** The Facilitator asks each participant to highlight progress towards achieving any Project or expressing any Accountability of any of the participant’s Roles in the Circle. Participants may only share progress made since the last report given, and not the general status of a Project or Accountability. Each participant may decide which Projects or Accountabilities are worth reporting on, however if another Circle Member explicitly requested updates on a specific Project, that one must be included until it’s either completed or dropped. For progress updates about a Project or Accountability of a Sub-Circle, the Facilitator must allow both the Lead Link and Rep Link of the Sub-Circle the opportunity to share updates.
-- **(e) Triage Issues:** The Facilitator is responsible for building an agenda of Tensions to process in the Tactical Meeting by soliciting agenda items from all participants, using the same rules as those for a Governance Meeting, defined in Section 3.3.4. However, in Tactical Meetings, the Facilitator processes agenda items by simply allowing the agenda item owner to engage others in their Roles and duties as desired, until a path for resolving the Tension is identified. If any Next-Actions or Projects are accepted during this discussion, the Secretary is responsible for capturing them and distributing these outputs to all participants. The Facilitator must attempt to allow time for processing every agenda item within the meeting, and in order to do so may cut off the processing of any item that’s taking more than its due share of the remaining meeting time.
-- **(f) Closing Round:** The Facilitator allows each participant in turn to share a closing reflection or other thought triggered by the meeting. Responses are not allowed.
+作为组织合伙人，你的职责和约束都被定义在章程及管理中。
+没有先前的或隐含的预期再起作用，除非管理明确说明它，或者是你和组织签署的基本义务或合同协议。
 
-A Circle may adopt a Policy to add to or change this required process.
+### 4.2 战术会议
 
-#### 4.2.4 Surrogate for Absent Members
+秘书负责安排定期的战术会议以经营圈子。
+协调员按照下述规则和政策负责主持战术会议。
 
-If a Defined Role of the Circle is entirely or partially unrepresented at a Tactical Meeting due to someone’s absence, the Circle’s Lead Link may act within that Role to cover the gap. If the Lead Link is also absent, any participant may accept Next-Actions or Projects on behalf of that Role, however these may be treated by the person who normally fills the Role as just requests made under the terms of Section 4.1.2(b).
+#### 4.2.1 焦点与意图
 
-### 4.3 Individual Action
+战术会议是为了：
 
-As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
+- **(a)** 分享圈子角色的经常性行动清单的完成状态；
+- **(b)** 汇报角色的常规指标；
+- **(c)** 分享角色有关项目和其他工作的进展情况；
+- **(d)** 诊断限制角色下一步行动、项目或其他工作的原因，以减少张力。
 
-#### 4.3.1 Allowed Situations
+#### 4.2.2 出席
 
-You may only take Individual Action when all of the following are true:
+核心圈成员和其他被邀请参加管理会议的人也被邀请参加战术会议。
+战术会议没有预定的说明或法定人数。
 
-- **(a)** You are acting in good faith to serve the Purpose or express the Accountabilities of some Role within the Organization, or of the overall Organization itself.
-- **(b)** You reasonably believe your action would resolve or prevent more Tension for the Organization than it would likely create.
-- **(c)** Your action would not cause, commit to, or allow spending or otherwise disposing of the Organization’s resources or other assets, beyond what you’re already authorized to spend.
-- **(d)** If your action would violate any Domains or Policies, you reasonably believe that you can’t delay the action long enough to request any permissions normally required, or to propose a Governance change to allow your action, without losing much of its potential value.
+#### 4.2.3 协调与过程
 
-#### 4.3.2 Communication & Restoration
+协调员使用如下过程主持战术会议:
 
-Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
+- **(a) 签到环节:**
+协调员安排每个人分享当前的状态或想法，或为会议提供其他开放评论。回应是不允许的。
+- **(b) 清单核查**
+协调员要求每个人分享核查清单的完成情况。
+- **(c) 指标核查:**
+协调员要求每个人分享任何分配给他的指标。
+- **(d) 进展更新:**
+协调员要求每个人分享项目或其职责的进展。
+只能分享上次报告以来的进展，而不是项目或职责整体的情况。
+每个人可以决定哪些项目或职责是值得报道的，同事明确要求的项目必须包括。
+协调员需要让子圈的引导连接和代表连接分享进展。
+- **(e) 诊断问题:**
+协调员需要参照管理会议的方法(章程3.3.4)建立战术会议的张力处理日程。
+在战术会议上，协调员通过让议程项目所有者上吸引他人参与他的角色和职责来确认解决张力的路径。
+如果讨论采纳了任何下一步行动或项目，秘书需要记录并通知所有人。
+协调员可以打断任何超时项目以保留时间处理每个议程项。
+- **(f) 结尾环节:** 协调员让每个人分享一个总结或者由会议触发想法。不允许回应。
 
-If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of the Lead Link of the Circle holding the affected entity.
+圈子可以指定策略来添加或修改这个过程。
 
-#### 4.3.3 Clarifying Governance
+#### 4.2.4 缺席问题
 
-If your Individual Action is an instance of a recurring activity or ongoing function needed by a Circle, and that activity or function is not already explicitly called for by the Circle’s Governance, then you are responsible for taking follow-up steps to remove that gap. That follow-up could include proposing Governance to cover the need, or taking steps to remove the need for this activity or function to happen in the first place.
+如果某个角色完全缺席战术会议，引导连接将扮演这个角色来填补空缺。
 
-#### 4.3.4 Priority of Corollary Requirements
+如果引导连接也缺席，任何人都能代表那个角色接受下一步行动或项目，然而这些由通常担任这一角色的人处理.
 
-After taking Individual Action, you have a duty to prioritize doing the corollary requirements defined in this section higher than doing any of your regular work. However, the Lead Link of whatever Circle fully contains all Roles that were significantly impacted by your action may still change this default priority.
+### 4.3 个人行动
 
-## Article 5: Adoption Matters
+在某些情况下，你有权在角色的权限之外行事，甚至是违反本章程的规则。
+这就是 **个人行为**，这是需要满足如下约束规则:
 
-### 5.1 Ratifiers Cede Authority
+#### 4.3.1 允许的情况
 
-By adopting this Constitution, the Ratifiers cede their authority to govern and run the Organization or direct its Partners, and may no longer do so except through authority granted to them under the Constitution’s rules and processes. However, as an exception to this rule, the Ratifiers may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization’s bylaws.
+只有当如下条件都满足时你才可以采取个人行动：
 
-### 5.2 Anchor Circle
+- **(a)** 你是真诚的为了完成目标或完成职责。
+- **(b)** 你合理地相信你的行动会解决或不会造成更多的张力。
+- **(c)** 你的行动不会导致组织资源或资产产生超出你授权范围的损耗。
+- **(d)** 如果你违反任何职权或政策，因为相信自己不能拖延足够长的时间去请求权限或改变管理。
 
-Upon adopting this Constitution, the Ratifiers must establish an initial Circle to express the overall Purpose of the Organization. This **_“Anchor Circle”_** becomes the broadest Circle in the Organization, and automatically controls all Domains that the Organization itself controls.
+#### 4.3.2 沟通与恢复
 
-#### 5.2.1 Links to the Anchor Circle
+采取单独行动时，你需要向任何受影响的人解释你的行为和背后的意图。
+如果有人要求，你需要采取合理的额外行动以协助解决新产生的张力。
 
-The Ratifiers may appoint an initial Lead Link of the Anchor Circle.
+如果个人行动干预了其他角色或违反职权或政策，并且那个角色或者引导连接要求的话，你就必须停止类似的行动。
 
-Alternatively, the Ratifiers may leave the Anchor Circle without a Lead Link, and create one or more initial Cross Links to the Anchor Circle in lieu of a Lead Link.
+#### 4.3.3 明确管理
 
-#### 5.2.2 Acting Without a Lead Link
+如果你的个人行动是圈子需要的周期性活动或正在进行的功能，而这些还没有被圈子管理明确地要求，那么你需要采取后续措施来消除这个差距。包括提出管理来涵盖需要，或采取措施消除相关需求的发生。
 
-If the Anchor Circle has no Lead Link, all decisions that normally require Lead Link authority become valid outputs of the Circle’s Governance Process. Any Role within the Circle may thus exercise Lead Link authority by proposing a decision as a Governance change for the Circle, using the process and rules in Article 3.
 
-Further, in an Anchor Circle with no Lead Link, the normal authority of Roles to autocratically impact Circle Domains (per Section 2.1.2) is revoked. Instead, the Circle’s Roles may only impact its Domains if a Policy explicitly allows the impact, or, alternatively, by proposing the action using the Circle’s Governance Process, exactly as described above for exercising Lead Link authority.
+#### 4.3.4 推论要求优先级
 
-#### 5.2.3 Organization’s Purpose
+采取单独行动后，你需要优于常规工作考虑本节定义的推论要求。
 
-The Anchor Circle is automatically accountable for discovering and expressing the Purpose of the overall Organization. The Purpose of the Organization is the deepest creative potential it can sustainably express in the world, given all of the constraints acting upon it and everything available to it. That includes its history, current capacities, available resources, Partners, character, culture, business structure, brand, market awareness, and all other relevant resources or factors.
+然而，被你的行为所影响的所有圈子的引导连接，都可以改变默认优先级。
 
-The Anchor Circle’s Lead Link inherits this Accountability by default, and may capture and update the Purpose to express this Accountability.
+## 条款5 采纳事宜
 
-If the Anchor Circle has no Lead Link, this Accountability automatically falls upon each Cross Link to the Anchor Circle instead, and any of them may update the Purpose by proposing the update via the Circle’s Governance Process.
+### 5.1 批准放弃权限
 
-#### 5.2.4 Updating the Anchor Circle
+采用本章程，批准者放弃自己管理和运行的组织或指挥合伙人的权力，并且除了在章程的规则和授权的情况下不在这样做。
 
-The Lead Link of the Anchor Circle has the authority to name the Circle, clarify its Domains, and add or modify its Accountabilities.
+然而，作为一个例外，批准者可以继续持有和行使任何他们没有权代表的权力，比如通过他们控制外的政策，或由该组织的章程。
 
-The Lead Link of the Anchor Circle may also appoint his or her own replacement as desired, unless otherwise specified by the Ratifiers.
 
-#### 5.2.5 No Super-Circle
+### 5.2 根本圈子
 
-The Anchor Circle has no Super-Circle, and does not elect a Rep Link.
+一旦采用本章程，批准者必须建立一个初始圈子来表述组织的整体目的。
+这个根本圈子成为组织中最广泛的圈子，并自动控制组织自身控制的所有职权。
 
-### 5.3 Initial Structure
+#### 5.2.1 到根本圈子的连接
 
-The Lead Link of the Anchor Circle may define an initial structure and other Governance for the Organization, outside of the usual Governance Process required by this Constitution. If that initial structure includes any other Circles, the Lead Links of those Circles may do the same within their Circles. This authority may only be used to define an initial structure for a Circle to start from, before the Circle has begun conducting its Governance Process.
+批准者可以指定根本圈子的初始引导连接接。
 
-### 5.4 Legacy Policies and Systems
+另外，该批准者可能保持根本圈子没有引导连接，并创建一个或多个代表引导连接的最初交叉连接。
 
-Any existing policies and systems the Organization has in effect before adopting this Constitution continue in full force after adoption, even if they include constraints or authorities that are not reflected in Governance records. This may include compensation systems, hiring and firing processes, work-related policies, etc.
+#### 5.2.2 没有引导连接
 
-However, these legacy policies and systems will lose all weight and authority as soon as Governance is defined that replaces or contradicts them. In addition, they may not be modified or added to in their legacy form. Anyone wishing to do so must first capture or otherwise empower the policy or system using the Governance Process defined in this Constitution.
+如果根本圈子没有引导连接，则通常需要引导连接做出的所有决策都会成为该圈子管理过程的有效输出。
+圈子里的任何角色都可以通过提出圈子管理变化的决定行使引导连接的权限，使用章程3里的过程和规则。
 
-### 5.5 Constitution Amendments and Repeal
+此外，在没有引导连接的根本圈子，角色要专制影响圈职权的权威（章程2.1.2）被撤销。
+相反，圈子的角色只能在政策明确允许或使用管理过程提案时才能影响其职权。
 
-The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
+#### 5.2.3 组织的目标
 
----
+根本圈子自动负责发现和表达整个组织的目标。
+该组织的目标是在它所有的资源和限制前提下，它可以持续表达的最深的创造潜力。
+这包括它的历史，目前的能力，可用资源，合伙人，人物，文化，商业结构，品牌，市场意识，以及所有其他相关资源或因素。
 
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+根本圈子的引导连接默认继承了这一职责，并且可以捕捉和更新目标，以表达他的职责。
 
----
+如果根本圈子没有引导连接，这个职责会自动落在每个到根本圈子的交叉连接上，而其中任何一个可以通过提出的更新圈子的管理过程来更新目的。
+
+#### 5.2.4 更新根本圈子
+
+对根本圈子的引导连接有权更新圈子的名称，阐明其职权，并添加或修改其职责。
+
+根本圈子的引导连接也可以按需委托他自己的替身，除非批准者另有规定。
+
+#### 5.2.5 没有父圈
+
+根本圈子没有父圈，也不会选举一个代表连接。
+
+### 5.3 初始结构
+
+根本圈子的引导连接可以定义一个初始结构和其他管理内容，而不经过本章程描述的通常的管理过程。
+如果这个初始结构包含任何其他圈子，这些圈子的引导连接可以在它们的圈子内进行相同的工作。
+这个权威可能只被用来在进行其管理过程之前定义一个圈子的初始结构。
+
+### 5.4 遗留政策和系统
+
+任何组织在采用本章程之前现有的政策和制度，在生效后继续采取，即使它们包括不反映在管理记录的约束或权限。
+这可能包括薪酬制度、聘用和解雇流程、工作相关政策等。
+
+然而，一旦管理被定义来取代或反驳他们后，这些传统的政策和系统将失去所有的重量和权力。
+此外，他们可能不会被修改或添加到其传统形式上。
+任何希望这样做的人，必须首先使用这一章程中定义的管理过程来捕捉或以其他方式授权政策或系统。
+
+### 5.5 章程修正案和废止
+
+批准者或其继承人可以修改本章程或完全废除它，用他们采纳它的权威和过程。
+修正案必须以书面书写和公布，从而该组织的所有合伙人可以访问他们。
